@@ -1,0 +1,17 @@
+{
+  "latest-stable":"",
+  "latest-dev":"1.0-DEV",
+  "versions":[
+    {
+      "name":"1.0-DEV",
+      "artifact-name":"com.hcc:HCC:1.0",
+      "url":"",
+      "fallback-url":"",
+      "sha256":"",
+      "sha1":"",
+      "size":"",
+      "path":"com/hcc/HCC-1.0.jar",
+      "tweak-class":"com.hcc.launch.HCCTweaker"
+    }
+  ]
+}
