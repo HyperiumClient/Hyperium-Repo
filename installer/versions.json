@@ -6,9 +6,9 @@
       "name":"1.0-DEV",
       "artifact-name":"com.hcc:HCC:1.0",
       "url":"https://raw.githubusercontent.com/HypixelCommunityClient/HCC-Repo/master/files/HCC-1.0.jar",
-      "sha256":"9212d468117111ca594ae242e038b5b640843083307e5fe22cb8a2e12d06675f",
-      "sha1":"2d369685ad85a436baed817aa2d8217444b4d019",
-      "size":"174933",
+      "sha256":"07f5727ec1f04f69773de589eb15f000c542b0b3d6abb91679c05143efa615c3",
+      "sha1":"aa733586a33958156e10b54cd58683372188a213",
+      "size":"877833",
       "path":"com/hcc/",
       "tweak-class":"com.hcc.launch.HCCTweaker"
     }
