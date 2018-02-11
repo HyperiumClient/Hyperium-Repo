@@ -9,7 +9,7 @@
       "sha256":"",
       "sha1":"",
       "size":"",
-      "path":"com/hcc/HCC-1.0.jar",
+      "path":"com/hcc/",
       "tweak-class":"com.hcc.launch.HCCTweaker"
     }
   ]
