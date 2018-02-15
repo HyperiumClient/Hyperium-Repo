@@ -8,7 +8,7 @@
       "url":"https://raw.githubusercontent.com/HypixelCommunityClient/HCC-Repo/master/files/HCC-1.0.jar",
       "sha256":"a0019e7c6927c8fb32dc5a52b9884e1722cf1cd13a359d8e7b2b5cb0b7d6de2d",
       "sha1":"6c648d76c6ea3f9b084ffe518c4bcb866d8f4cd2",
-      "size":"1083687",
+      "size":1083687,
       "path":"com/hcc/",
       "tweak-class":"com.hcc.launch.HCCTweaker"
     }
