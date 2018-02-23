@@ -4,13 +4,13 @@
   "versions":[
     {
       "name":"1.0-DEV",
-      "artifact-name":"com.hcc:HCC:1.0",
-      "url":"https://raw.githubusercontent.com/HypixelCommunityClient/HCC-Repo/master/files/HCC-1.0.jar",
+      "artifact-name":"cc.hyperium:Hyperium:1.0",
+      "url":"https://raw.githubusercontent.com/HyperiumClient/Hyperium-Repo/master/files/Hyperium-1.0.jar",
       "sha256":"672084af3f999697bc2404517256e079003f3fc81eefc7d79638a68516337727",
       "sha1":"41d76aed80c29fa459954aa3f556925e82a6efbd",
       "size":5764417,
-      "path":"com/hcc/HCC/1.0/HCC-1.0.jar",
-      "tweak-class":"com.hcc.launch.HCCTweaker"
+      "path":"cc/hyperium/Hyperium/1.0/Hyperium-1.0.jar",
+      "tweak-class":"com.hcc.launch.HyperiumTweaker"
     }
   ]
 }
