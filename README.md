@@ -1,2 +1,2 @@
-# HCC-Repo
+# Hyperium-Repo
 Repository for resources
