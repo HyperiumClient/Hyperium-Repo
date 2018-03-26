@@ -35,7 +35,7 @@
 				}
 			},
 			"name": "cc.hyperium.libs:jxbrowser-natives:6.19.1",
-			"rules": {
+			"natives": {
 				"osx": "natives-osx",
 				"linux": "natives-linux",
 				"windows": "natives-windows"
