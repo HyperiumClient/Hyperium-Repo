@@ -1,4 +1,4 @@
-{
+ {
   "latest-stable":"",
   "latest-dev":"1.0-DEV",
   "versions":[
@@ -12,5 +12,49 @@
       "path":"cc/hyperium/Hyperium/1.0/Hyperium-1.0.jar",
       "tweak-class":"cc.hyperium.launch.HyperiumTweaker"
     }
+  ],
+  "libs":[
+    {
+			"downloads": {
+				"classifiers": {
+					"natives-windows": {
+						"url": "https://hyperium.cc/Hyperium/libs/jxbrowser-win32-6.19.1.jar",
+            "size": 36796043
+					},
+					"natives-osx": {
+						"url": "https://hyperium.cc/Hyperium/libs/jxbrowser-mac-6.19.1.jar",
+            "size": 56452927
+					},
+					"natives-linux": {
+						"url": "https://hyperium.cc/Hyperium/libs/jxbrowser-linux64-6.19.1.jar",
+            "size": 53178585
+					}
+				}
+			},
+			"name": "cc.hyperium.libs:jxbrowser-natives:6.19.1",
+			"rules": {
+				"osx": "natives-osx",
+				"linux": "natives-linux",
+				"windows": "natives-windows"
+			}
+		}, 
+    {
+			"downloads": {
+				"artifact": {
+					"url": "https://hyperium.cc/Hyperium/libs/jxbrowser-6.19.1.jar",
+          "size": 1099534
+				}
+			},
+			"name": "cc.hyperium.libs:jxbrowser:6.19.1"
+		}, 
+    {
+			"downloads": {
+				"artifact": {
+					"url": "https://hyperium.cc/Hyperium/libs/license.jar",
+          "size": 485 
+				}
+			},
+			"name": "cc.hyperium.libs:jxbrowser-license:6.19.1"
+		}
   ]
 }
