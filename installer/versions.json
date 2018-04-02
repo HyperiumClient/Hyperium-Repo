@@ -6,9 +6,9 @@
       "name":"1.0-DEV",
       "artifact-name":"cc.hyperium:Hyperium:1.0",
       "url":"https://raw.githubusercontent.com/HyperiumClient/Hyperium-Repo/master/files/dev/Hyperium-1.0.jar",
-      "sha256":"08ee5a34dee2352939a6a667fa729a9b41c3bdf7729baafa39c8e91739c74d59",
-      "sha1":"be09a1ab14f187d1f79f27a6feb1d0648f21d169",
-      "size": 21796647,
+      "sha256":"da40a0314b845b4c10101644b26ac80b5487e022f67131d96e8e6d11f6858c09",
+      "sha1":"f909758415458db6e0205e6a354fffce68d32b83",
+      "size": 21743565,
       "path":"cc/hyperium/Hyperium/1.0/Hyperium-1.0.jar",
       "tweak-class":"cc.hyperium.launch.HyperiumTweaker"
     }
