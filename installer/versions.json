@@ -61,5 +61,25 @@
       },
       "name": "cc.hyperium.libs:jxbrowser-license:6.19.1"
     }
+  ],
+  "addons":[
+    {
+      "name":"OOF",
+      "description":"Plays OOF sound when you kill someone or you die"
+      "version":"1.0.2",
+      "author":"Amplifiable",
+      "verified":true,
+      "sha256":"",
+      "url":"https://cdn.discordapp.com/attachments/434390361608290305/435167687539425298/OofAddon-1.0.2.jar"
+    },
+    {
+      "name":"AutoFriend",
+      "description":"Accept everyone who friends you",
+      "version":"1.2",
+      "author":"ConorTheOreo",
+      "verified":true,
+      "sha256":"",
+      "url":"https://github.com/ConorTheOreo/AutoFriend-Addon-Hyperium/releases/download/1.2/AutoFriend-1.2.jar"
+    }
   ]
 }
