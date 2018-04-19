@@ -6,9 +6,9 @@
       "name": "1.0-DEV",
       "artifact-name": "cc.hyperium:Hyperium:1.0",
       "url": "https://raw.githubusercontent.com/HyperiumClient/Hyperium-Repo/master/files/dev/Hyperium-1.0.jar",
-      "sha256": "de03e30cc9f884895b24c3a7bb41914a5929ec9dfe4de68f3a91acf701756383",
-      "sha1": "a6ac1cd67c60e6065c64162832e92daeaddc3516",
-      "size": 22421760,
+      "sha256": "15752eef6ef2df94c81e8b28826e15a850cd0bd427f9b4c440ffceea07530f4d",
+      "sha1": "56dc0ab0ae178c848fd0af6b528f5fc170fdc38c",
+      "size": 22439965,
       "path": "cc/hyperium/Hyperium/1.0/Hyperium-1.0.jar",
       "tweak-class": "cc.hyperium.launch.HyperiumTweaker"
     }
@@ -62,69 +62,69 @@
       "name": "cc.hyperium.libs:jxbrowser-license:6.19.1"
     }
   ],
-  "addons":[
+  "addons": [
     {
-      "name":"OOF",
-      "description":"Plays OOF sound when you kill someone or you die",
-      "version":"1.0.2",
-      "author":"Amplifiable",
-      "verified":true,
-      "sha256":"d74c766ee34f8e4a726d941a963bc5abc19af5a48d9c69c473c2e473c976685c",
-      "url":"https://cdn.discordapp.com/attachments/434390361608290305/435167687539425298/OofAddon-1.0.2.jar"
+      "name": "OOF",
+      "description": "Plays OOF sound when you kill someone or you die",
+      "version": "1.0.2",
+      "author": "Amplifiable",
+      "verified": true,
+      "sha256": "d74c766ee34f8e4a726d941a963bc5abc19af5a48d9c69c473c2e473c976685c",
+      "url": "https://cdn.discordapp.com/attachments/434390361608290305/435167687539425298/OofAddon-1.0.2.jar"
     },
     {
-      "name":"AutoFriend",
-      "description":"Accept everyone who friends you",
-      "version":"1.2",
-      "author":"ConorTheOreo",
-      "verified":true,
-      "sha256":"cb1947aa551f48ab31e3241e465bcf4f053b3f16cf3d9b770a7caa4259d6f73f",
-      "url":"https://github.com/ConorTheOreo/AutoFriend-Addon-Hyperium/releases/download/1.2/AutoFriend-1.2.jar"
+      "name": "AutoFriend",
+      "description": "Accept everyone who friends you",
+      "version": "1.2",
+      "author": "ConorTheOreo",
+      "verified": true,
+      "sha256": "cb1947aa551f48ab31e3241e465bcf4f053b3f16cf3d9b770a7caa4259d6f73f",
+      "url": "https://github.com/ConorTheOreo/AutoFriend-Addon-Hyperium/releases/download/1.2/AutoFriend-1.2.jar"
     },
     {
-      "name":"Sidebar",
-      "description":"Coming soon!",
-      "version":"N/A",
-      "author":"Amplifiable",
-      "verified":false,
-      "sha256":"",
-      "url":""
+      "name": "Sidebar",
+      "description": "Coming soon!",
+      "version": "N/A",
+      "author": "Amplifiable",
+      "verified": false,
+      "sha256": "",
+      "url": ""
     },
     {
-      "name":"Compass",
-      "description":"Coming soon!",
-      "version":"N/A",
-      "author":"ConorTheOreo",
-      "verified":false,
-      "sha256":"",
-      "url":""
+      "name": "Compass",
+      "description": "Coming soon!",
+      "version": "N/A",
+      "author": "ConorTheOreo",
+      "verified": false,
+      "sha256": "",
+      "url": ""
     },
     {
-      "name":"Clickbait",
-      "description":"Coming soon!",
-      "version":"N/A",
-      "author":"SHARDCoder",
-      "verified":false,
-      "sha256":"",
-      "url":""
+      "name": "Clickbait",
+      "description": "Coming soon!",
+      "version": "N/A",
+      "author": "SHARDCoder",
+      "verified": false,
+      "sha256": "",
+      "url": ""
     },
     {
-      "name":"DevTools",
-      "description":"Coming soon!",
-      "version":"N/A",
-      "author":"Cubxity",
-      "verified":false,
-      "sha256":"",
-      "url":""
+      "name": "DevTools",
+      "description": "Coming soon!",
+      "version": "N/A",
+      "author": "Cubxity",
+      "verified": false,
+      "sha256": "",
+      "url": ""
     },
     {
-      "name":"Quickplay",
-      "description":"Coming soon!",
-      "version":"N/A",
-      "author":"bugfroggy",
-      "verified":false,
-      "sha256":"",
-      "url":""
+      "name": "Quickplay",
+      "description": "Coming soon!",
+      "version": "N/A",
+      "author": "bugfroggy",
+      "verified": false,
+      "sha256": "",
+      "url": ""
     }
   ]
 }
