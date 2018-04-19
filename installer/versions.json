@@ -80,6 +80,33 @@
       "verified":true,
       "sha256":"cb1947aa551f48ab31e3241e465bcf4f053b3f16cf3d9b770a7caa4259d6f73f",
       "url":"https://github.com/ConorTheOreo/AutoFriend-Addon-Hyperium/releases/download/1.2/AutoFriend-1.2.jar"
+    },
+    {
+      "name":"Sidebar",
+      "description":"Coming soon!",
+      "version":"N/A",
+      "author":"Amplifiable",
+      "verified":false,
+      "sha256":"",
+      "url":""
+    },
+    {
+      "name":"Compass",
+      "description":"Coming soon!",
+      "version":"N/A",
+      "author":"ConorTheOreo",
+      "verified":false,
+      "sha256":"",
+      "url":""
+    },
+    {
+      "name":"Clickbait",
+      "description":"Coming soon!",
+      "version":"N/A",
+      "author":"SHARDCoder",
+      "verified":false,
+      "sha256":"",
+      "url":""
     }
   ]
 }
