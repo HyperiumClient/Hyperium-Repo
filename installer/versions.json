@@ -107,6 +107,24 @@
       "verified":false,
       "sha256":"",
       "url":""
+    },
+    {
+      "name":"DevTools",
+      "description":"Coming soon!",
+      "version":"N/A",
+      "author":"Cubxity",
+      "verified":false,
+      "sha256":"",
+      "url":""
+    },
+    {
+      "name":"Quickplay",
+      "description":"Coming soon!",
+      "version":"N/A",
+      "author":"bugfroggy",
+      "verified":false,
+      "sha256":"",
+      "url":""
     }
   ]
 }
