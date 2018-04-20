@@ -83,12 +83,12 @@
     },
     {
       "name": "Sidebar",
-      "description": "Coming soon!",
-      "version": "N/A",
+      "description": "Allows for full scoreboard customization",
+      "version": "1.0.0",
       "author": "Amplifiable",
-      "verified": false,
-      "sha256": "",
-      "url": ""
+      "verified": true,
+      "sha256": "139e2858dd265dc10c8156e8fc7d8921d0aba80b2d605e4477e9a2d173056539",
+      "url": "http://amplifiable.tk/files/sidebaraddon/versions/SidebarAddon-1.0.0.jar"
     },
     {
       "name": "Compass",
