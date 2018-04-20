@@ -64,7 +64,7 @@
   ],
   "addons": [
     {
-      "name": "OOF",
+      "name": "oof",
       "description": "Plays OOF sound when you kill someone or you die",
       "version": "1.0.2",
       "author": "Amplifiable",
