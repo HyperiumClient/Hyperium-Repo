@@ -75,11 +75,11 @@
     {
       "name":"AutoFriend",
       "description":"Accept everyone who friends you",
-      "version":"1.3",
+      "version":"1.4",
       "author":"ConorTheOreo",
       "verified":true,
-      "sha256":"37a53398a005893c04eee9c16683d4f246e4cfd1c35a1576fad21a998b68075d",
-      "url":"https://github.com/ConorTheOreo/AutoFriend-Addon-Hyperium/releases/download/1.3/AutoFriend-1.3.jar"
+      "sha256":"f9693efa3f416e8eb4e1b5c34842d1cbae7cde584eac9e7c4ce0498aa5a65a82",
+      "url":"https://github.com/ConorTheOreo/AutoFriend-Addon-Hyperium/releases/download/1.4/AutoFriend-1.4.jar"
     },
     {
       "name": "Sidebar",
