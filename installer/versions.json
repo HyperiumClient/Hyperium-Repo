@@ -89,15 +89,6 @@
       "verified": true,
       "sha256": "139e2858dd265dc10c8156e8fc7d8921d0aba80b2d605e4477e9a2d173056539",
       "url": "http://amplifiable.tk/files/sidebaraddon/versions/SidebarAddon-1.0.0.jar"
-    },
-    {
-      "name": "ClickBait addon",
-      "description": "Adds an easy way to get mad views - /cbhelp",
-      "version": "1.0.2",
-      "author": "SHARDcoder",
-      "verified": true,
-      "sha256": "903e08b7736a8132dd9cfe40e642c1ba19a69ca968a6a919d3beeda43fdb8c8f",
-      "url": "https://cdn.discordapp.com/attachments/432904935877771277/436917926491193345/Addon_ClickBait_v1.0.2.jar"
     }
   ]
 }
