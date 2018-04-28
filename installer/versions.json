@@ -64,6 +64,24 @@
   ],
   "addons": [
     {
+      "name": "Quickplay",
+      "description": "Quickly join games on the network.",
+      "version": "2.0.3",
+      "author": "bugfroggy",
+      "verified": true,
+      "sha256": "8eecc3153099a22b42b56185d75ccb77e04109de0f11592815f860d5766f3b3c",
+      "url": "https://github.com/bugfroggy/Quickplay2.0/releases/download/2.0.3/Quickplay-Hyperium-2.0.3.jar"
+    },
+    {
+      "name": "Quickplay Premium",
+      "description": "Paid addition to Quickplay. More info at https://bugg.co/quickplay/premium/",
+      "version": "1.0.2",
+      "author": "bugfroggy",
+      "verified": true,
+      "sha256": "e2400345588a20643f99d71d63bbf632f35f4086231e6231769469dfbeec9279",
+      "url": "https://bugg.co/quickplay/jars/Quickplay%20Premium%20Hyperium-1.0.2.jar"
+    },
+    {
       "name": "oof",
       "description": "Plays OOF sound when you kill someone or you die",
       "version": "1.0.2",
