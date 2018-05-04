@@ -36,11 +36,11 @@
     {
       "name": "oof",
       "description": "Plays OOF sound when you kill someone or you die",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": "Amplifiable",
       "verified": true,
-      "sha256": "d74c766ee34f8e4a726d941a963bc5abc19af5a48d9c69c473c2e473c976685c",
-      "url": "https://cdn.discordapp.com/attachments/434390361608290305/435167687539425298/OofAddon-1.0.2.jar"
+      "sha256": "89b0af3d56e975aae31f80c60e52cd63ce755f2b2ada7429fbc68aadfb41b76f",
+      "url": "https://github.com/Amplifiable2/HyperiumOof/releases/download/v1.0.3/oof-1.0.3.jar"
     },
     {
       "name": "AutoFriend",
