@@ -10,7 +10,8 @@
       "sha1": "5aff42e7f9550377ce23bd07e85834a4030075e5",
       "size": 22623112,
       "path": "cc/hyperium/Hyperium/1.0/Hyperium-1.0.jar",
-      "tweak-class": "cc.hyperium.launch.HyperiumTweaker"
+      "tweak-class": "cc.hyperium.launch.HyperiumTweaker",
+      "install-min": 1
     }
   ],
   "libs": [],
@@ -22,7 +23,8 @@
       "author": "bugfroggy",
       "verified": true,
       "sha256": "eb3e66b3e745b28d3078f8f175be76dcf59cf4a80f6aa50bb43e7dc926f978cb",
-      "url": "https://github.com/bugfroggy/Quickplay2.0/releases/download/2.0.3/Quickplay-Hyperium-2.0.3.jar"
+      "url": "https://github.com/bugfroggy/Quickplay2.0/releases/download/2.0.3/Quickplay-Hyperium-2.0.3.jar",
+      "depends":[]
     },
     {
       "name": "Quickplay Premium",
@@ -31,7 +33,8 @@
       "author": "bugfroggy",
       "verified": true,
       "sha256": "d259d42e3fa91805c6ea7049cbce626c11bc0f3b965394ef1f31cb9defe1b412",
-      "url": "https://bugg.co/quickplay/jars/Quickplay%20Premium%20Hyperium-1.0.2.jar"
+      "url": "https://bugg.co/quickplay/jars/Quickplay%20Premium%20Hyperium-1.0.2.jar",
+      "depends":["Quickplay"]
     },
     {
       "name": "oof",
@@ -40,7 +43,8 @@
       "author": "Amplifiable",
       "verified": true,
       "sha256": "89b0af3d56e975aae31f80c60e52cd63ce755f2b2ada7429fbc68aadfb41b76f",
-      "url": "https://github.com/Amplifiable2/HyperiumOof/releases/download/v1.0.3/oof-1.0.3.jar"
+      "url": "https://github.com/Amplifiable2/HyperiumOof/releases/download/v1.0.3/oof-1.0.3.jar",
+      "depends":[]
     },
     {
       "name": "AutoFriend",
@@ -49,7 +53,8 @@
       "author": "ConorTheOreo",
       "verified": true,
       "sha256": "234a9f0c0111a8173b5cfca880d1c1f4958d8f50c532a04f52e550480c7d1b30",
-      "url": "https://github.com/ConorTheOreo/AutoFriend-Addon-Hyperium/releases/download/2.0/AutoFriend-2.0.jar"
+      "url": "https://github.com/ConorTheOreo/AutoFriend-Addon-Hyperium/releases/download/2.0/AutoFriend-2.0.jar",
+      "depends":[]
     },
     {
       "name": "Sidebar",
@@ -58,7 +63,8 @@
       "author": "Amplifiable",
       "verified": true,
       "sha256": "139e2858dd265dc10c8156e8fc7d8921d0aba80b2d605e4477e9a2d173056539",
-      "url": "http://amplifiable2.github.io/files/sidebaraddon/versions/SidebarAddon-1.0.0.jar"
+      "url": "http://amplifiable2.github.io/files/sidebaraddon/versions/SidebarAddon-1.0.0.jar",
+      "depends":[]
     }
   ]
 }
