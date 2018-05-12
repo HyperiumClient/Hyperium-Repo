@@ -49,11 +49,21 @@
     {
       "name": "AutoFriend",
       "description": "Accept everyone who friends you",
-      "version": "DEVELOPER_2",
+      "version": "STABLE_2",
       "author": "ConorTheOreo",
       "verified": true,
-      "sha256": "234a9f0c0111a8173b5cfca880d1c1f4958d8f50c532a04f52e550480c7d1b30",
-      "url": "https://github.com/ConorTheOreo/AutoFriend-Addon-Hyperium/releases/download/2.0/AutoFriend-2.0.jar",
+      "sha256": "d6dd9453a0b2840d8407a79717e1beaba7fcbb12049e1d90ff81a7f5f615591d",
+      "url": "https://github.com/ConorTheOreo/AutoFriend-Addon-Hyperium/releases/download/2.1/AutoFriend-2.1.jar",
+      "depends":[]
+    },
+    {
+      "name": "ForniteCompassMod",
+      "description": "Shows the Compass from Fortnite in Minecraft",
+      "version": "1.0",
+      "author": "ConorTheOreo",
+      "verified": true,
+      "sha256": "c963346d9eba8ad2999bf143f793e7b07e7529a1bb91b7c25c5b18aa50a2fd7a",
+      "url": "https://github.com/ConorTheOreo/FortniteCompassPort/releases/download/1.0/FortniteCompass-1.0.jar",
       "depends":[]
     },
     {
