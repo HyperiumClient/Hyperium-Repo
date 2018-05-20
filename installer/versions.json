@@ -1,7 +1,8 @@
 {
   "latest-stable": "1.0 B10",
   "latest-dev": "1.0 B10",
-  "versions": [ {
+  "versions": [ 
+    {
       "name": "1.0 B10",
       "artifact-name": "cc.hyperium:Hyperium:0.10",
       "url": "http://static.sk1er.club/hyperium_files/Hyperium-0.10.jar",
