@@ -27,9 +27,20 @@
       "name": "1.0 B7",
       "artifact-name": "cc.hyperium:Hyperium:1.0",
       "url": "https://raw.githubusercontent.com/HyperiumClient/Hyperium-Repo/master/files/dev/Hyperium-1.0.jar",
-      "sha256": "9a4147f913f2a31cc058972c6f1e13ab1235df51a1e87f00b6bf8092a2f3051b",
+      "sha256": "5f5479feca3c9a0dbd3314879efc08993ec1f7bb",
       "sha1": "5aff42e7f9550377ce23bd07e85834a4030075e5",
       "size": 22623112,
+      "path": "cc/hyperium/Hyperium/1.0/Hyperium-1.0.jar",
+      "tweak-class": "cc.hyperium.launch.HyperiumTweaker",
+      "install-min": 1
+    },
+    {
+      "name": "1.0 B5",
+      "artifact-name": "cc.hyperium:Hyperium:1.0",
+      "url": "https://raw.githubusercontent.com/HyperiumClient/Hyperium-Repo/574162f10e24022aa141166274d1f553196418c7/files/dev/Hyperium-1.0.jar",
+      "sha256": "9a4147f913f2a31cc058972c6f1e13ab1235df51a1e87f00b6bf8092a2f3051b",
+      "sha1": "5aff42e7f9550377ce23bd07e85834a4030075e5",
+      "size": 22482095,
       "path": "cc/hyperium/Hyperium/1.0/Hyperium-1.0.jar",
       "tweak-class": "cc.hyperium.launch.HyperiumTweaker",
       "install-min": 1
