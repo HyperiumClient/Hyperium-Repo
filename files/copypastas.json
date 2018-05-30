@@ -11,5 +11,9 @@
     "response": [
       "You can find downloads in #releases."
     ]
+  },
+  {
+    "regex":"f",
+    "response":["f"]
   }
 ]
