@@ -1,13 +1,13 @@
 [
   {
-    "regex": "((?=.*(hyperium|client))(?=.*(download|install)))",
+    "regex": "(how).+?(install|download).+?(client|hyperium)+?",
     "response": [
       "Watch this video on how to install Hyperium, made by Sk1er.",
       "https://youtu.be/SBMRJBsWZWQ"
     ]
   },
   {
-    "regex": "((?=.*(download|downlaods))(?=.*(where|link)))",
+    "regex": "(where|how to).+?(download|link)+?",
     "response": [
       "You can find downloads in #releases."
     ]
