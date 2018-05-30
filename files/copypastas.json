@@ -1,6 +1,15 @@
 [
   {
-    "regex":"f",
-    "response":["f"]
+    "regex": "(?=.+(hyperium|client))(?=(download|install))",
+    "response": [
+      "Watch this video on how to install Hyperium, made by Sk1er.",
+      "https://youtu.be/SBMRJBsWZWQ"
+    ]
+  },
+  {
+    "regex": "((?=.*(download|downlaods))(?=.*(where|link)))",
+    "response": [
+      "You can find downloads in #releases."
+    ]
   }
 ]
