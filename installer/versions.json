@@ -117,6 +117,16 @@
       "sha256": "139e2858dd265dc10c8156e8fc7d8921d0aba80b2d605e4477e9a2d173056539",
       "url": "https://amplifiable.tk/files/sidebaraddon/versions/SidebarAddon-1.0.0.jar",
       "depends":[]
+    },
+    {
+      "name": "Custom Crosshair Addon",
+      "description": "Allows you to customize your crosshair",
+      "version": 0.5.3,
+      "author": "Amplifiable",
+      "verified": true,
+      "sha256": "c85c2df20a524d8d6f13fb0ee24677312d8e07f3e5c550684e3e0572db05d914",
+      "url": "https://amplifiable.tk/files/customcrosshair/versions/CustomCrosshairAddon-0.5.3.jar",
+      "depends": []
     }
   ]
 }
