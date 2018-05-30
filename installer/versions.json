@@ -1,11 +1,21 @@
 {
-  "latest-stable": "1.0 B10",
-  "latest-dev": "1.0 B10",
-  "versions": [ 
+  "latest-stable": "1.0 B11",
+  "latest-dev": "1.0 B11",
+  "versions": [  {
+      "name": "1.0 B11",
+      "artifact-name": "cc.hyperium:Hyperium:0.11",
+      "url": "https://static.sk1er.club/hyperium_files/Hyperium-0.11.jar",
+      "sha256": "e1df8712b98ec09caaaf05f603adcf9fb2116ec74dda42d86477825aa58e93a8",
+      "sha1": "e01ec407adb8320360d0d1f38d1e312b1990666d",
+      "size": 31390546,
+      "path": "cc/hyperium/Hyperium/1.0/Hyperium-0.11.jar",
+      "tweak-class": "cc.hyperium.launch.HyperiumTweaker",
+      "install-min": 1
+    }, 
     {
       "name": "1.0 B10",
       "artifact-name": "cc.hyperium:Hyperium:0.10",
-      "url": "http://static.sk1er.club/hyperium_files/Hyperium-0.10.jar",
+      "url": "https://static.sk1er.club/hyperium_files/Hyperium-0.10.jar",
       "sha256": "d3a3cf7d57cb19a9496101c22ede5cf20ff76bd81d701d431020554b3e27e206",
       "sha1": "9a37fcaf4d5a7a859de284d381d1c7035aefca27",
       "size": 24600573,
@@ -15,7 +25,7 @@
     }, {
       "name": "1.0 B9",
       "artifact-name": "cc.hyperium:Hyperium:0.9.2",
-      "url": "http://static.sk1er.club/hyperium_files/Hyperium-0.9.2.jar",
+      "url": "https://static.sk1er.club/hyperium_files/Hyperium-0.9.2.jar",
       "sha256": "3d1745055ed13019abeac5d7d3785091e75dd0c39720b2c1277a348172c4929d",
       "sha1": "0a038ae2ccf4d57a07de2c0547f98076350d8563",
       "size": 24585742,
