@@ -9,7 +9,7 @@
   {
     "regex": "(where|how to).+?(download|link)+?",
     "response": [
-      "You can find downloads in #releases."
+      "You can find downloads in <#411620476910174209>."
     ]
   },
   {
