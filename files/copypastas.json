@@ -5,7 +5,13 @@
       "Watch this video on how to install Hyperium, made by Sk1er.",
       "https://youtu.be/SBMRJBsWZWQ"
     ]
+  }, {
+    "regex": "(help)+?",
+    "response": [
+      "If you need help ask in <#412310617442091008>"
+    ]
   },
+
   {
     "regex": "(where|how to).+?(download|link)+?",
     "response": [
