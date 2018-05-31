@@ -13,6 +13,20 @@
     ]
   },
   {
+    "regex": "(how to).+?(download|install).+?(addons)+?",
+    "response": [
+      "You can install them from either the installer or download them from <#434390361608290305> and put it in the addons folder inside `.minecraft/addons`."
+    ]
+  },
+  {
+    "regex": "(how to).+?(create|make).+?(addons)+?",
+    "response": [
+      "You can learn how to setup the workspace and create a command from.",
+      "https://www.youtube.com/watch?v=RXTIFdoNA8c",
+      "https://www.youtube.com/watch?v=qyF95HwBHa8"
+    ]
+  },
+  {
     "regex":"f",
     "response":["f"]
   }
