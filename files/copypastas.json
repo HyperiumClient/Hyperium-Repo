@@ -11,7 +11,13 @@
     "response": [
       "You can find downloads in #releases."
     ]
+  },{
+    "regex": "(OF|Optifine).+?(Default|Normal).+?(Cape|cape)+?",
+    "response": [
+      "The Optifine cape bug will be fixed in the next build."
+    ]
   },
+
   {
     "regex":"f",
     "response":["f"]
