@@ -23,7 +23,7 @@
     {
       "title":"ALERT FORMAT - THIS WILL BE IGNORED",
       "click":"[Optional] link to open on click",
-      "icon":"BASE 64 144x144 PNG OR ENUM IN Icons CLASS"
+      "icon":"BASE 64 144x144 PNG OR ENUM IN Icons CLASS",
       "target":["1.0 - Dev B11"]
     }
   ]
