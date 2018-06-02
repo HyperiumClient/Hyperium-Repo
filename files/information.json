@@ -1,0 +1,30 @@
+{
+  "changelogs":[
+    "1.0 B11":{
+      "description":[
+        "Bug fixes:",
+        " - Fixed crashes related to NPE (Keep hitting send crash report if you still get it)",
+        " - Fixed major memory leak",
+        " - Fixed crashing bug when joining Hypixel",
+        " - Fixed Keybind issues",
+        "- Optifine capes now show (But Hyperium capes are still just as cool)",
+        " - Fixed an error with Spotify rendering",
+        " - Fixed the internal MC profiler always being on (Should improve performance)",
+        " - Fixed block overlay",
+        "",
+        "New features",
+        " - Added item to tab list to show if player is using Hyperium (Can be toggled in General Settings)",
+        " - Added /levelhead toggle to easily toggle Levelhead",
+        " - Added JPEG support to main menu background"
+      ]
+    }
+  ],
+  "alerts":[
+    {
+      "title":"ALERT FORMAT - THIS WILL BE IGNORED",
+      "click":"[Optional] link to open on click",
+      "icon":"BASE 64 144x144 PNG OR ENUM IN Icons CLASS"
+      "target":["1.0 - Dev B11"]
+    }
+  ]
+}
