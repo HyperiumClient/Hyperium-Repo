@@ -1,6 +1,7 @@
 {
   "changelogs":[
-    "1.0 B11":{
+    {
+      "title":"B11 Changelog",
       "description":[
         "Bug fixes:",
         " - Fixed crashes related to NPE (Keep hitting send crash report if you still get it)",
