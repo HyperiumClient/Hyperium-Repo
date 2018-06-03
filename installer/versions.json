@@ -111,11 +111,11 @@
     {
       "name": "Sidebar",
       "description": "Allows for full scoreboard customization",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "author": "Amplifiable",
       "verified": true,
-      "sha256": "139e2858dd265dc10c8156e8fc7d8921d0aba80b2d605e4477e9a2d173056539",
-      "url": "https://amplifiable.tk/files/sidebaraddon/versions/SidebarAddon-1.0.0.jar",
+      "sha256": "e0d17742ad4dd504729e70fc342a70db48a1f6f8bcc87254df57321a0b577d26",
+      "url": "https://amplifiable.tk/files/sidebaraddon/versions/SidebarAddon-1.0.2.jar",
       "depends":[]
     },
     {
