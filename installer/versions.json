@@ -4,7 +4,7 @@
   "latest-dev": "1.0 B12",
   "versions": [  {
       "name": "1.0 B12",
-      "release-id":13
+      "release-id":13,
       "artifact-name": "cc.hyperium:Hyperium:0.12.2",
       "url": "https://static.sk1er.club/hyperium_files/Hyperium-0.12.2.jar",
       "sha256": "9947869616711f49730fd4ba3c7165f80211eb2cb05ebbc3c7f854d6d3a96d78",
