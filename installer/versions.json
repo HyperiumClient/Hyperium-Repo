@@ -93,11 +93,11 @@
     {
       "name": "AutoFriend",
       "description": "Accept everyone who friends you",
-      "version": "2.1.1",
+      "version": "2.2",
       "author": "ConorTheOreo",
       "verified": true,
       "sha256": "d77e0962afef4f2f2f75ed37fe80cc9b3461d0a1f5b582a86e294a6639f1842f",
-      "url": "https://github.com/ConorTheOreo/AutoFriend-Addon-Hyperium/releases/download/2.1.1/AutoFriend-2.1.1.jar",
+      "url": "https://cdn.discordapp.com/attachments/434390361608290305/454298107405139968/AutoFriend-2.2.jar",
       "depends":[]
     },
     {
