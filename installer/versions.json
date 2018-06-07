@@ -129,6 +129,15 @@
       "sha256": "c85c2df20a524d8d6f13fb0ee24677312d8e07f3e5c550684e3e0572db05d914",
       "url": "https://amplifiable.tk/files/customcrosshair/versions/CustomCrosshairAddon-0.5.3.jar",
       "depends": []
-    }
+    },
+    {
+      "name": "PlayTime Addon",
+      "description": "Shows you how long you have been playing for",
+      "version": "1.1.1",
+      "author": "SHARDcoder",
+      "verified": true,
+      "sha256": "4231ff3543acc165084f9a404812556980e345ed05b8fbf515329d745267b9b7",
+      "url": "https://cdn.discordapp.com/attachments/438005831666237443/454353118713610243/Addon_PlayTimeAddon_v1.1.1.jar",
+      "depends": []
   ]
 }
