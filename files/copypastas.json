@@ -31,7 +31,13 @@
       "https://www.youtube.com/watch?v=RXTIFdoNA8c",
       "https://www.youtube.com/watch?v=qyF95HwBHa8"
     ]
+  },{
+    "regex": "(OF|Optifine).+?(Default|Normal).+?(Cape|cape)+?",
+    "response": [
+      "The Optifine cape bug will be fixed in the next build."
+    ]
   },
+
   {
     "regex":"f",
     "response":["f"]
