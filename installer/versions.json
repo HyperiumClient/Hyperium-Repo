@@ -111,7 +111,7 @@
       "depends":[]
     },
     {
-      "name": "Sidebar",
+      "name": "SidebarAddon",
       "description": "Allows for full scoreboard customization",
       "version": "1.0.2",
       "author": "Amplifiable",
