@@ -15,6 +15,18 @@
       "install-min": 1
     }, 
     {
+      "name": "1.0 B11",
+      "release-id":11,
+      "artifact-name": "cc.hyperium:Hyperium:0.11",
+      "url": "https://static.sk1er.club/hyperium_files/Hyperium-0.11.jar",
+      "sha256": "e1df8712b98ec09caaaf05f603adcf9fb2116ec74dda42d86477825aa58e93a8",
+      "sha1": "e01ec407adb8320360d0d1f38d1e312b1990666d",
+      "size": 31390546,
+      "path": "cc/hyperium/Hyperium/1.0/Hyperium-0.11.jar",
+      "tweak-class": "cc.hyperium.launch.HyperiumTweaker",
+      "install-min": 1
+    }, 
+    {
       "name": "1.0 B10",
       "artifact-name": "cc.hyperium:Hyperium:0.10",
       "url": "https://static.sk1er.club/hyperium_files/Hyperium-0.10.jar",
