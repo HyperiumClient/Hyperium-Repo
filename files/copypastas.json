@@ -30,11 +30,11 @@
       "You can learn how to setup the workspace and create a command from.",
       "https://www.youtube.com/watch?v=RXTIFdoNA8c",
       "https://www.youtube.com/watch?v=qyF95HwBHa8"
-    ]
+   
   },{
-    "regex": "(OF|Optifine).+?(Default|Normal).+?(Cape|cape)+?",
+    "regex": "(Version 1.8.9 not found)+?"
     "response": [
-      "The Optifine cape bug will be fixed in the next build."
+      "Install Vanilla 1.8.9 from the Minecraft launcher to reslove that."
     ]
   },
 
