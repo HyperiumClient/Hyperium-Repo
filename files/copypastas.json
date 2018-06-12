@@ -34,7 +34,7 @@
   },{
     "regex": "(Version 1.8.9 not found)+?"
     "response": [
-      "Install Vanilla 1.8.9 from the Minecraft launcher to reslove that."
+      "Install Vanilla 1.8.9 from the Minecraft launcher before running the Hyperium installer to resolve that :+1:"
     ]
   },
 
