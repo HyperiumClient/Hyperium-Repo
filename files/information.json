@@ -1,22 +1,24 @@
 {
   "changelogs":[
     {
-      "title":"B11 Changelog",
+      "title":"B13 Changelog",
       "description":[
         "Bug fixes:",
-        " - Fixed crashes related to NPE (Keep hitting send crash report if you still get it)",
-        " - Fixed major memory leak",
-        " - Fixed crashing bug when joining Hypixel",
-        " - Fixed Keybind issues",
-        "- Optifine capes now show (But Hyperium capes are still just as cool)",
-        " - Fixed an error with Spotify rendering",
-        " - Fixed the internal MC profiler always being on (Should improve performance)",
-        " - Fixed block overlay",
+        " - Fixed a JVM based crash (Hopefully we just removed the code causing it)",
+        " - Fixed memory leaks",
+        " - And many small ones.",
         "",
         "New features",
-        " - Added item to tab list to show if player is using Hyperium (Can be toggled in General Settings)",
-        " - Added /levelhead toggle to easily toggle Levelhead",
-        " - Added JPEG support to main menu background"
+        " - Dragon + Angel Wings (200 Hyperium Credits)",
+        " - Ding on PM (Hypixel Only)",
+        " - New config + Menu system",
+        " - Addon manager",
+        " - Dragon head cosmetic (100 Hyperium Credits)",
+        " - Redesigned updater",
+        " - Persistent toggle sprint",
+        " - Option for sprint to affect static FOV",
+        " - Item Physics addon "
+   
       ]
     }
   ],
