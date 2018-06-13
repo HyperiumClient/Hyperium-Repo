@@ -105,21 +105,21 @@
     {
       "name": "AutoFriend",
       "description": "Accept everyone who friends you",
-      "version": "2.2",
-      "author": "ConorTheOreo",
+      "version": "3",
+      "author": "ConorTheDev",
       "verified": true,
-      "sha256": "d77e0962afef4f2f2f75ed37fe80cc9b3461d0a1f5b582a86e294a6639f1842f",
-      "url": "https://cdn.discordapp.com/attachments/434390361608290305/454298107405139968/AutoFriend-2.2.jar",
+      "sha256": "fc2ff5e68d7a0ffbacdbd6d2a5d2c60a063cc06f0fae6ceb9fccf7797a9cebf4",
+      "url": "https://github.com/ConorTheDev/AutoFriendAddon/releases/download/3/AutoFriend-3.jar",
       "depends":[]
     },
     {
       "name": "FortniteCompassMod",
       "description": "Shows the Compass from Fortnite in Minecraft",
       "version": "1.0",
-      "author": "ConorTheOreo",
+      "author": "ConorTheDev",
       "verified": true,
       "sha256": "c963346d9eba8ad2999bf143f793e7b07e7529a1bb91b7c25c5b18aa50a2fd7a",
-      "url": "https://github.com/ConorTheOreo/FortniteCompassPort/releases/download/1.0/FortniteCompass-1.0.jar",
+      "url": "https://github.com/ConorTheDev/FortniteCompassPort/releases/download/1.0/FortniteCompass-1.0.jar",
       "depends":[]
     },
     {
