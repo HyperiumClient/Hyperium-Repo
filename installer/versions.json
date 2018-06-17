@@ -5,12 +5,12 @@
   "versions": [  {
       "name": "1.0 B14",
       "release-id":19,
-      "artifact-name": "cc.hyperium:Hyperium:0.14.1",
-      "url": "https://static.sk1er.club/hyperium_files/Hyperium-0.14.1.jar",
-      "sha256": "3e4b374b6162b3fd70eb403679d5ccdf265cdb99fa9c565ca699d377a7bd9ff5",
-      "sha1": "71508443a110f699f4f5ef1b36c713cbb315e211",
-      "size": 33073437,
-      "path": "cc/hyperium/Hyperium/1.0/Hyperium-0.14.1.jar",
+      "artifact-name": "cc.hyperium:Hyperium:0.14.2",
+      "url": "https://static.sk1er.club/hyperium_files/Hyperium-0.14.2.jar",
+      "sha256": "854bf474bd01dca939336ab6d8779893d3b683eb79c62336d561466aa7c28cb4",
+      "sha1": "ecb73177ef4a889d3b2072dfa3346ad2d36b3f14",
+      "size": 33073888,
+      "path": "cc/hyperium/Hyperium/1.0/Hyperium-0.14.2.jar",
       "tweak-class": "cc.hyperium.launch.HyperiumTweaker",
       "install-min": 1
     }, 
