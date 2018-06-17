@@ -1,24 +1,26 @@
 {
   "changelogs":[
     {
-      "title":"B13 Changelog",
+      "title":"B14 Changelog",
       "description":[
         "Bug fixes:",
-        " - Fixed a JVM based crash (Hopefully we just removed the code causing it)",
-        " - Fixed memory leaks",
-        " - And many small ones.",
+        " - Fixed dragon head spinning  ",
+        " - Fixed old versions from building up in minecraft folder using disk space",
+        " - Fixed dragon wings making a players' skin bright",
+        " - Fixed cosmetic GUI crashing",
+        " - Fixed ears not showing",
+        " - Fixed 1.7 sneaking animation",
+        " - Fixed keystrokes mouse CPS settings",
+        " - Added option to use local JRE to prevent JVM crashes",
+        " - Fixed icons on default resource pack GUI ",
         "",
         "New features",
-        " - Dragon + Angel Wings (200 Hyperium Credits)",
-        " - Ding on PM (Hypixel Only)",
-        " - New config + Menu system",
-        " - Addon manager",
-        " - Dragon head cosmetic (100 Hyperium Credits)",
-        " - Redesigned updater",
-        " - Persistent toggle sprint",
-        " - Option for sprint to affect static FOV",
-        " - Item Physics addon "
-   
+        " - Pinned server Invadedlands.net",
+        " - Added miscellaneous category for config settings",
+        " - Added wings toggle",
+        " - Added slider for wing scale",
+        " - Renamed a few settings to make them easier to understand",
+        ""
       ]
     }
   ],
