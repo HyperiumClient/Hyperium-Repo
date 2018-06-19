@@ -30,6 +30,7 @@
       "You can learn how to setup the workspace and create a command from.",
       "https://www.youtube.com/watch?v=RXTIFdoNA8c",
       "https://www.youtube.com/watch?v=qyF95HwBHa8"
+      ]
   },
   {
     "regex": "(Version 1.8.9 not found)+?",
