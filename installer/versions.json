@@ -143,6 +143,16 @@
       "depends": []
     },
     {
+      "name": "PlayTime Addon",
+      "description": "Shows you how long you have been playing for",
+      "version": "1.1.1",
+      "author": "SHARDcoder",
+      "verified": true,
+      "sha256": "4231ff3543acc165084f9a404812556980e345ed05b8fbf515329d745267b9b7",
+      "url": "https://github.com/SHARDcoder/PlayTimeAddon/releases/download/v1.1.1/Addon.PlayTimeAddon.v1.1.1.jar",
+      "depends": []
+    },
+    {
       "name": "CustomRP addon",
       "description": "Customise the Rich Presence of Hyperium",
       "version": "1.0.0",
