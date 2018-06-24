@@ -1,16 +1,28 @@
 {
-  "latest-supported": 12,
-  "latest-stable": "1.0 B12",
-  "latest-dev": "1.0 B12",
+  "latest-supported": 18,
+  "latest-stable": "1.0 B14",
+  "latest-dev": "1.0 B14",
   "versions": [  {
-      "name": "1.0 B12",
-      "release-id":13,
-      "artifact-name": "cc.hyperium:Hyperium:0.12.2",
-      "url": "https://static.sk1er.club/hyperium_files/Hyperium-0.12.2.jar",
-      "sha256": "9947869616711f49730fd4ba3c7165f80211eb2cb05ebbc3c7f854d6d3a96d78",
-      "sha1": "9900e8550b38dabd5730222295c1f4d3037a835f",
-      "size": 32907188,
-      "path": "cc/hyperium/Hyperium/1.0/Hyperium-0.12.2.jar",
+      "name": "1.0 B14",
+      "release-id":20,
+      "artifact-name": "cc.hyperium:Hyperium:0.14.2",
+      "url": "https://static.sk1er.club/hyperium_files/Hyperium-0.14.2.jar",
+      "sha256": "5c7944c4b104328d13a43a849da58b80c37a9f4c24a17c0f79e99c1377e9540e",
+      "sha1": "59c2e781d035b4259e84b05cca7280dc7eff4134",
+      "size": 33073880,
+      "path": "cc/hyperium/Hyperium/1.0/Hyperium-0.14.2.jar",
+      "tweak-class": "cc.hyperium.launch.HyperiumTweaker",
+      "install-min": 1
+    }, 
+    {
+      "name": "1.0 B11",
+      "release-id":11,
+      "artifact-name": "cc.hyperium:Hyperium:0.11",
+      "url": "https://static.sk1er.club/hyperium_files/Hyperium-0.11.jar",
+      "sha256": "e1df8712b98ec09caaaf05f603adcf9fb2116ec74dda42d86477825aa58e93a8",
+      "sha1": "e01ec407adb8320360d0d1f38d1e312b1990666d",
+      "size": 31390546,
+      "path": "cc/hyperium/Hyperium/1.0/Hyperium-0.11.jar",
       "tweak-class": "cc.hyperium.launch.HyperiumTweaker",
       "install-min": 1
     }, 
@@ -93,21 +105,21 @@
     {
       "name": "AutoFriend",
       "description": "Accept everyone who friends you",
-      "version": "2.2",
-      "author": "ConorTheOreo",
+      "version": "3.1",
+      "author": "ConorTheDev",
       "verified": true,
-      "sha256": "d77e0962afef4f2f2f75ed37fe80cc9b3461d0a1f5b582a86e294a6639f1842f",
-      "url": "https://cdn.discordapp.com/attachments/434390361608290305/454298107405139968/AutoFriend-2.2.jar",
+      "sha256": "adbde2f5fa30d35f3ace89c83c08c5bd16b0c3b83fdcd16651640f5c82f6c178",
+      "url": "https://github.com/ConorTheDev/AutoFriendAddon/releases/download/3.1/AutoFriend-3.1.jar",
       "depends":[]
     },
     {
       "name": "FortniteCompassMod",
       "description": "Shows the Compass from Fortnite in Minecraft",
       "version": "1.0",
-      "author": "ConorTheOreo",
+      "author": "ConorTheDev",
       "verified": true,
       "sha256": "c963346d9eba8ad2999bf143f793e7b07e7529a1bb91b7c25c5b18aa50a2fd7a",
-      "url": "https://github.com/ConorTheOreo/FortniteCompassPort/releases/download/1.0/FortniteCompass-1.0.jar",
+      "url": "https://github.com/ConorTheDev/FortniteCompassPort/releases/download/1.0/FortniteCompass-1.0.jar",
       "depends":[]
     },
     {
@@ -138,6 +150,16 @@
       "verified": true,
       "sha256": "4231ff3543acc165084f9a404812556980e345ed05b8fbf515329d745267b9b7",
       "url": "https://github.com/SHARDcoder/PlayTimeAddon/releases/download/v1.1.1/Addon.PlayTimeAddon.v1.1.1.jar",
+      "depends": []
+    },
+    {
+      "name": "CustomRP addon",
+      "description": "Customise the Rich Presence of Hyperium",
+      "version": "1.0.0",
+      "author": "SHARDcoder",
+      "verified": true,
+      "sha256": "829f05d3f6c8681ca79133ed75b35bc8bca989388c65c0f0a33a151e93c2041b",
+      "url": "https://github.com/SHARDcoder/CustomRPAddon/releases/download/v1.0.0/Addon.CustomRPAddon.v1.0.0.jar",
       "depends": []
     }
   ]

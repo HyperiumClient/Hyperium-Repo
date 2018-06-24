@@ -30,16 +30,12 @@
       "You can learn how to setup the workspace and create a command from.",
       "https://www.youtube.com/watch?v=RXTIFdoNA8c",
       "https://www.youtube.com/watch?v=qyF95HwBHa8"
-    ]
-  },{
-    "regex": "(OF|Optifine).+?(Default|Normal).+?(Cape|cape)+?",
-    "response": [
-      "The Optifine cape bug will be fixed in the next build."
-    ]
+      ]
   },
-
   {
-    "regex":"f",
-    "response":["f"]
+    "regex": "(Version 1.8.9 not found)+?",
+    "response": [
+      "Install Vanilla 1.8.9 from the Minecraft launcher before running the Hyperium installer to resolve that :+1:"
+    ]
   }
 ]

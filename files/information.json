@@ -1,22 +1,26 @@
 {
   "changelogs":[
     {
-      "title":"B11 Changelog",
+      "title":"B14 Changelog",
       "description":[
         "Bug fixes:",
-        " - Fixed crashes related to NPE (Keep hitting send crash report if you still get it)",
-        " - Fixed major memory leak",
-        " - Fixed crashing bug when joining Hypixel",
-        " - Fixed Keybind issues",
-        "- Optifine capes now show (But Hyperium capes are still just as cool)",
-        " - Fixed an error with Spotify rendering",
-        " - Fixed the internal MC profiler always being on (Should improve performance)",
-        " - Fixed block overlay",
+        " - Fixed dragon head spinning  ",
+        " - Fixed old versions from building up in minecraft folder using disk space",
+        " - Fixed dragon wings making a players' skin bright",
+        " - Fixed cosmetic GUI crashing",
+        " - Fixed ears not showing",
+        " - Fixed 1.7 sneaking animation",
+        " - Fixed keystrokes mouse CPS settings",
+        " - Added option to use local JRE to prevent JVM crashes",
+        " - Fixed icons on default resource pack GUI ",
         "",
         "New features",
-        " - Added item to tab list to show if player is using Hyperium (Can be toggled in General Settings)",
-        " - Added /levelhead toggle to easily toggle Levelhead",
-        " - Added JPEG support to main menu background"
+        " - Pinned server Invadedlands.net",
+        " - Added miscellaneous category for config settings",
+        " - Added wings toggle",
+        " - Added slider for wing scale",
+        " - Renamed a few settings to make them easier to understand",
+        ""
       ]
     }
   ],
