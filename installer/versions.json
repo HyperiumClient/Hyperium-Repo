@@ -105,11 +105,11 @@
     {
       "name": "AutoFriend",
       "description": "Accept everyone who friends you",
-      "version": "3.1",
+      "version": "3.2",
       "author": "ConorTheDev",
       "verified": true,
-      "sha256": "adbde2f5fa30d35f3ace89c83c08c5bd16b0c3b83fdcd16651640f5c82f6c178",
-      "url": "https://github.com/ConorTheDev/AutoFriendAddon/releases/download/3.1/AutoFriend-3.1.jar",
+      "sha256": "93cef2a80ed01411bad7dacd9e42b5ac4ed7e8b908bc44bf8aac4c36578f5067",
+      "url": "https://github.com/ConorTheDev/AutoFriendAddon/releases/download/3.2/AutoFriend-3.2.jar",
       "depends":[]
     },
     {
