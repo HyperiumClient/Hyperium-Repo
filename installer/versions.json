@@ -155,11 +155,11 @@
     {
       "name": "CustomRP addon",
       "description": "Customise the Rich Presence of Hyperium",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "SHARDcoder",
       "verified": true,
-      "sha256": "829f05d3f6c8681ca79133ed75b35bc8bca989388c65c0f0a33a151e93c2041b",
-      "url": "https://github.com/SHARDcoder/CustomRPAddon/releases/download/v1.0.0/Addon.CustomRPAddon.v1.0.0.jar",
+      "sha256": "97138ae643ffb9f0c501e0e8b4d10aba9473f7193f6a0bcc4931685b05ab067f",
+      "url": "https://github.com/SHARDcoder/CustomRPAddon/releases/download/v1.1.0/Addon.CustomRPAddon.v1.1.0.jar",
       "depends": []
     }
   ]
