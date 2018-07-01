@@ -14,7 +14,6 @@
         "New features",
         "+ All new particle auras! With particle auras, you can choose from 31 particle types and 8 different animtions including Tornado, double helix and vortex of doom.",
         "+ A notification will appear in the main menu if you are using an out of date version (You should be updating, lots of the crashes we see are from people using outdated versions)",
-        "+ Added more 1.7 animations",
         "+ Added setting to change max world particles (MC default is 4000 but you can choose to change that from 1000 - 50000) ",
         "+ Added some easter eggs, can you find them (Looking in source code is cheating :P)",
         ""
