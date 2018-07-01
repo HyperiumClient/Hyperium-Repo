@@ -115,11 +115,11 @@
     {
       "name": "FortniteCompassMod",
       "description": "Shows the Compass from Fortnite in Minecraft",
-      "version": "1.2",
+      "version": "2.0",
       "author": "ConorTheDev",
       "verified": true,
-      "sha256": "a8247e9376588c61ca728a01e62a35678aed3268902ace35e50fbc768730c1f3",
-      "url": "https://github.com/ConorTheDev/FortniteCompassPort/releases/download/1.2/FortniteCompass-1.2.jar",
+      "sha256": "2552bfb15ecf7e3ad518a62e1f3e2e2995096bea224300f9dd4716e0b57309d3",
+      "url": "https://github.com/ConorTheDev/FortniteCompassPort/releases/download/2.0/FortniteCompass-2.0.jar",
       "depends":[]
     },
     {
