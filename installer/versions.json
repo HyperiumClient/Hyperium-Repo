@@ -113,6 +113,16 @@
       "depends":[]
     },
     {
+      "name": "ResourcePackDisplay",
+      "description": "Shows the current Resource Pack you're using!",
+      "version": "1.2",
+      "author": "ConorTheDev",
+      "verified": true,
+      "sha256": "eec5d150df0b8f26a0111822ea412dca925d0af7af136643bda7143235f7cb49",
+      "url": "https://github.com/ConorTheDev/Resource-Pack-Display/releases/download/1.2/Resource-Pack-Display-1.2.jar",
+      "depends":[]
+    },
+    {
       "name": "FortniteCompassMod",
       "description": "Shows the Compass from Fortnite in Minecraft",
       "version": "2.0",
