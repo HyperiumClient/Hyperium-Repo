@@ -115,7 +115,7 @@
     {
       "name": "ResourcePackDisplay",
       "description": "Shows the current Resource Pack you're using!",
-      "version": "1.2",
+      "version": "1.2.1",
       "author": "ConorTheDev",
       "verified": true,
       "sha256": "cbfc3be8b4a99171bbbeeb1e79cefa0fca6174ca3e7c6ae59ffa83d0af0359c4",
