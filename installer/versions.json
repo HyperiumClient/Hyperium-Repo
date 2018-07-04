@@ -115,11 +115,11 @@
     {
       "name": "ResourcePackDisplay",
       "description": "Shows the current Resource Pack you're using!",
-      "version": "1.2",
+      "version": "1.2.1",
       "author": "ConorTheDev",
       "verified": true,
-      "sha256": "eec5d150df0b8f26a0111822ea412dca925d0af7af136643bda7143235f7cb49",
-      "url": "https://github.com/ConorTheDev/Resource-Pack-Display/releases/download/1.2/Resource-Pack-Display-1.2.jar",
+      "sha256": "cbfc3be8b4a99171bbbeeb1e79cefa0fca6174ca3e7c6ae59ffa83d0af0359c4",
+      "url": "https://github.com/ConorTheDev/Resource-Pack-Display/releases/download/1.2.1/Resource-Pack-Display-1.2.1.jar",
       "depends":[]
     },
     {
