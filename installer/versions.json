@@ -171,6 +171,16 @@
       "sha256": "a3ef91f55d2c0b9a99b8ddd7ffe092501b98fff651671a755d2a4b2013f84e50",
       "url": "https://github.com/SHARDcoder/CustomRPAddon/releases/download/v1.3.0/Addon.CustomRPAddon.v1.3.0.jar",
       "depends": []
+    },
+    {
+      "name": "Auto Dab",
+      "description": "A port of the Forge mod by Sk1er, letting you automatically dab",
+      "version": "1.8.0",
+      "author": "KodingKing",
+      "verified": true,
+      "sha256": "5DAA03B8364EF434CAEDEB0E8FCEB957EB295B68777E1ED245D56200AF624EDC",
+      "url": "https://github.com/KodingKing1/AutoDab-Addon/releases/download/v1.8-SNAPSHOT/AutoDab-Addon-1.0-SNAPSHOT.jar",
+      "depends": []
     }
   ]
 }
