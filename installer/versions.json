@@ -181,6 +181,16 @@
       "sha256": "0A8A626A645BFC4D83E27BB3749692CF9DC14406535C50D7DD73135A2EE86564",
       "url": "https://github.com/KodingKing1/AutoDab-Addon/releases/download/v1.9-SNAPSHOT/AutoDab-Addon-1.0-SNAPSHOT.jar",
       "depends": []
-    }
+    },
+    {
+"name": "Particle Modifier",
+"description": "A port of the Forge mod by dewgs, creating more particles on a criticle hit or a enchantment hit.",
+"version": "2.0",
+"author": "Chachy and KodingKing",
+"verified": true,
+"sha256": "26C1F16799C88A7970E94F35F44E2641B0DD3CB01C19CD51BA506FBD1F9FC331",
+"url": "https://github.com/ChachyGit/Particle/releases/download/2.0/ParticleAddon-1.0-SNAPSHOT.jar",
+"depends":[]
+    },
   ]
 }
