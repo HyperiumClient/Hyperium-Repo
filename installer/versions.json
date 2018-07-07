@@ -191,6 +191,6 @@
 "sha256": "26C1F16799C88A7970E94F35F44E2641B0DD3CB01C19CD51BA506FBD1F9FC331",
 "url": "https://github.com/ChachyGit/Particle/releases/download/2.0/ParticleAddon-1.0-SNAPSHOT.jar",
 "depends":[]
-    },
+    }
   ]
 }
