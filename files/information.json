@@ -1,21 +1,21 @@
 {
   "changelogs":[
     {
-      "title":"B16 Changelog",
+      "title":"B18 Changelog",
       "description":[
         "Bug fixes:",
-        "- Fix cape from going back into your face when sprint flying",
-        "- Fix cape not on back when shifting",
-        "- Fix text going off screen in patch notes in GUI (Working on scrolling, should be done soon)",
-        "- Fixed some crashes related to sound manager",
-        "- Fixed a crash from ingame server selecter",
-        "- Fix windowed fullscreen not being entered on game start ",
+        "- Fixed white screen during world loading.",
+        "- Fixed font renderer crash.",
+        "- Fixed cape GUI broken on Auto GUI scale.",
+        "- Fixed server list button on singleplayer.",
+        "- Fixed sprint FOV bypass not working correctly.",
+        "- Fixed purple/block blocks bug.",
+		"- Fixed all reported crashes :D",
         "",
         "New features",
-        "+ All new particle auras! With particle auras, you can choose from 31 particle types and 8 different animtions including Tornado, double helix and vortex of doom.",
-        "+ A notification will appear in the main menu if you are using an out of date version (You should be updating, lots of the crashes we see are from people using outdated versions)",
-        "+ Added setting to change max world particles (MC default is 4000 but you can choose to change that from 1000 - 50000) ",
-        "+ Added some easter eggs, can you find them (Looking in source code is cheating :P)",
+        "+ Cost of cosmetics will now display in cosmetics tab.",
+        "+ Cape caching for improved performance.",
+        "+ Optimized item rendering for improved performance [Beta] (Enable in Settings > Improvements).",
         ""
       ]
     }
