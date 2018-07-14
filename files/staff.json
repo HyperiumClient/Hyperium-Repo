@@ -85,5 +85,11 @@
     "ign": "FalseHonesty",
     "color": "GREEN",
     "entityPath": "net.minecraft.entity.passive.EntityPig"
-  }
+  },
+	{
+    "uuid": "49238332-d820-4975-b9d3-5b33049fdf7c",
+    "ign": "Toriable",
+    "color": "CHROMA",
+    "entityPath": "none"
+  },
 ]
