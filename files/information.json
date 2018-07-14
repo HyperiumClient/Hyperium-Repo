@@ -1,31 +1,34 @@
-{
-  "changelogs":[
-    {
-      "title":"B18 Changelog",
-      "description":[
-        "Bug fixes:",
-        "- Fixed white screen during world loading.",
-        "- Fixed font renderer crash.",
-        "- Fixed cape GUI broken on Auto GUI scale.",
-        "- Fixed server list button on singleplayer.",
-        "- Fixed sprint FOV bypass not working correctly.",
-        "- Fixed purple/block blocks bug.",
-		"- Fixed all reported crashes :D",
-        "",
-        "New features",
-        "+ Cost of cosmetics will now display in cosmetics tab.",
-        "+ Cape caching for improved performance.",
-        "+ Optimized item rendering for improved performance [Beta] (Enable in Settings > Improvements).",
-        ""
-      ]
-    }
-  ],
-  "alerts":[
-    {
-      "title":"ALERT FORMAT - THIS WILL BE IGNORED",
-      "click":"[Optional] link to open on click",
-      "icon":"EXTENSION",
-      "target":["1.0 - Dev B11"]
-    }
-  ]
+{  
+   "changelogs":[  
+      {  
+         "title":"B19 Changelog",
+         "description":[  
+            "Bug fixes:",
+            "- Fixed the . showing in certain cases (Needed for optimized font renderer)",
+            "",
+            "New features",
+            "+ Added motion blur to settings",
+            "+ Added a new mods tab and transferred stuff to it for more clarity on configuring mods that were command only and people might not have known about them",
+            "+ Added scroll limits on GUI's so you can't go over the edge and added up and down buttons for said GUIs",
+            "+ Added Antialiasing to other fonts so they look better",
+            "+ Added /coords (Prints out coords in chat)",
+            "+ Added several requested features from vanilla enhancements",
+            "+ Added /ping",
+            "+ Added confirmation for buying cosmetics ingame",
+            "+ Added tab complete for your friends to a few Hypixel commands while on Hypixel (/msg, /p)",
+            "+ Added accent colour adjustment",
+            ""
+         ]
+      }
+   ],
+   "alerts":[  
+      {  
+         "title":"ALERT FORMAT - THIS WILL BE IGNORED",
+         "click":"[Optional] link to open on click",
+         "icon":"EXTENSION",
+         "target":[  
+            "1.0 - Dev B11"
+         ]
+      }
+   ]
 }
