@@ -103,16 +103,6 @@
       "depends":[]
     },
     {
-      "name": "AutoFriend",
-      "description": "Accept everyone who friends you",
-      "version": "3.2",
-      "author": "ConorTheDev",
-      "verified": true,
-      "sha256": "93cef2a80ed01411bad7dacd9e42b5ac4ed7e8b908bc44bf8aac4c36578f5067",
-      "url": "https://github.com/ConorTheDev/AutoFriendAddon/releases/download/3.2/AutoFriend-3.2.jar",
-      "depends":[]
-    },
-    {
       "name": "ResourcePackDisplay",
       "description": "Shows the current Resource Pack you're using!",
       "version": "1.2",
