@@ -113,16 +113,6 @@
       "depends":[]
     },
     {
-      "name": "FortniteCompassMod",
-      "description": "Shows the Compass from Fortnite in Minecraft",
-      "version": "2.0",
-      "author": "ConorTheDev",
-      "verified": true,
-      "sha256": "2552bfb15ecf7e3ad518a62e1f3e2e2995096bea224300f9dd4716e0b57309d3",
-      "url": "https://github.com/ConorTheDev/FortniteCompassPort/releases/download/2.0/FortniteCompass-2.0.jar",
-      "depends":[]
-    },
-    {
       "name": "SidebarAddon",
       "description": "Allows for full scoreboard customization",
       "version": "1.0.2",
