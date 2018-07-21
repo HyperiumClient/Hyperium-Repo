@@ -1,7 +1,7 @@
 {  
    "changelogs":[  
       {  
-         "title":"B19 Changelog",
+         "title":"B20 Changelog",
          "description":[  
             "Bug fixes:",
             "- Fixed dabbing / flossing not stopping when you open a GUI",
