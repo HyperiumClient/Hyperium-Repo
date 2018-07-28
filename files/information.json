@@ -1,30 +1,21 @@
 {  
    "changelogs":[  
       {  
-         "title":"B20 Changelog",
+         "title":"B21 Changelog",
          "description":[  
             "Bug fixes:",
-            "- Fixed dabbing / flossing not stopping when you open a GUI",
-            " - Fixed Keystrokes not scaling",
-            " - Fixed scaling in Capes GUI",
-            " - Fixed perspective resetting yaw to 0",
-            " - Fixed rod line being thicker than normal",
-            " - Fixed square boxes instead of text",
-            " - Fixed ChromaHUD crashing",
+            "-  Fixed name history scrolling bug",
+            " - Fixed crash reported showing up twice and not working",
+            " - Fixed fireworks not turning off in video settings",
+            " - Fixed Nick Hider crash",
+            " - Fixed Glintcolorizer RGB not loading",
+            " - Fixed memory issues",
+            " - Fixed world loading time",
             "",
             "New features",
-            "+ Ported Addons",
-            "+ Sidebar",
-            "+ Playtime",
-            "+ Custom crosshair",
-            "+ Autofriend",
-            "+ Fortnite compass",
-            "+ CustomRP",
-            "+ Added togglesprint toggle in mods section",
-            "+ Added AutoGG to mods list",
-            "+ Sorted Mods Tab by name",
-            "+ Added scaling for spotify",
-            "+ Reach Display Config",
+            "+  Ported Custom RP Addon",
+            "+  Added /resize to change the size the window",
+            "+  Made GUI labels look better",
             ""
          ]
       }
