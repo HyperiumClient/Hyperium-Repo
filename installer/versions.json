@@ -10,7 +10,7 @@
       "sha256": "080e2de64ed504a78c4a26b7f1f016e040d6353cb69f7703128d2e2c7c9d0f5a",
       "sha1": "bc83785fd902c33ba8bdb9b2e8cf671064ca29e2",
       "size": 35825935,
-      "path": "cc/hyperium/Hyperium/0.19.1/Hyperium-0.20.1.jar",
+      "path": "cc/hyperium/Hyperium/0.20.1/Hyperium-0.20.1.jar",
       "tweak-class": "cc.hyperium.launch.HyperiumTweaker",
       "install-min": 1
     }, 
