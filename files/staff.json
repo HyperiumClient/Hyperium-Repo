@@ -97,5 +97,11 @@
     "ign": "PrincessJo",
     "color": "DARK_PURPLE",
     "entityPath": "net.minecraft.entity.passive.EntityHorse"
+  },
+  {
+    "uuid": "15f154be-c576-4244-9ab2-86a4e92fa2d6",
+    "ign": "Quig",
+    "color": "DARK_PURPLE",
+    "entityPath": "none"
   }
 ]
