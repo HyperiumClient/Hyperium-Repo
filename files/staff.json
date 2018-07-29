@@ -25,7 +25,7 @@
   {
     "uuid": "54d50dc1-f5ba-4e83-ace6-65b5b6c2ba8d",
     "ign": "boomboompower",
-    "color": "AQUA"
+    "color": "CHROMA"
   },
   {
     "uuid": "8233b1e5-bd74-441b-aa34-ee812263cca9",
@@ -58,7 +58,7 @@
   },
   {
     "uuid": "5348cef1-4828-4bed-91a5-15cdeb0b52db",
-	  "ign": "ConorTheDabLord",
+    "ign": "ConorTheDabLord",
     "color": "DARK_PURPLE",
     "entityPath": "net.minecraft.entity.monster.EntityBlaze"
   },
@@ -86,7 +86,7 @@
     "color": "GREEN",
     "entityPath": "net.minecraft.entity.passive.EntityPig"
   },
-	{
+  {
     "uuid": "49238332-d820-4975-b9d3-5b33049fdf7c",
     "ign": "Toriable",
     "color": "CHROMA",
