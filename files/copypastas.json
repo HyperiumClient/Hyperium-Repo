@@ -2,8 +2,8 @@
   {
     "regex": "(how).+?(install|download).+?(client|hyperium)",
     "response": [
-      "Watch this video on how to install Hyperium, made by Sk1er.",
-      "https://youtu.be/SBMRJBsWZWQ"
+      "Watch this video on how to install Hyperium, made by Cubxity.",
+      "https://www.youtube.com/watch?v=jG1OezVOiO0"
     ]
   }, {
     "regex": "(help)",
