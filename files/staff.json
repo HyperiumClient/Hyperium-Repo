@@ -1,11 +1,5 @@
 [
   {
-    "uuid": "4be70fcd-07f9-497b-ab6d-76e3ad1b41b3",
-    "ign": "Amplifiable",
-    "color": "AQUA",
-    "entityPath": "net.minecraft.entity.passive.EntityBat"
-  },
-  {
     "uuid": "eac14100-2676-4a6d-9dea-85437b2c133d",
     "ign": "Cubxity",
     "color": "CHROMA",
