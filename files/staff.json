@@ -46,15 +46,9 @@
   },
   {
     "uuid": "d7e06198-b78a-435e-8e35-5f2706e254f9",
-    "ign": "ChachyOreo",
+    "ign": "MelonChach",
     "color": "CHROMA",
     "entityPath": "net.minecraft.entity.monster.EntitySlime"
-  },
-  {
-    "uuid": "5348cef1-4828-4bed-91a5-15cdeb0b52db",
-    "ign": "ConorTheDabLord",
-    "color": "DARK_PURPLE",
-    "entityPath": "net.minecraft.entity.monster.EntityBlaze"
   },
   {
     "uuid": "75cff0a1-c5f5-4528-9c9f-48f87570065a",
