@@ -1,21 +1,23 @@
 {  
    "changelogs":[  
       {  
-         "title":"B21 Changelog",
+         "title":"B22 Changelog",
          "description":[  
             "Bug fixes:",
-            "-  Fixed name history scrolling bug",
-            " - Fixed crash reported showing up twice and not working",
-            " - Fixed fireworks not turning off in video settings",
-            " - Fixed Nick Hider crash",
-            " - Fixed Glintcolorizer RGB not loading",
-            " - Fixed memory issues",
-            " - Fixed world loading time",
+            " - Fixed limbo command.",
+            " - Fixed chromahud armour turning black.",
+            " - Fixed cape positioning being skewed by Optifine.",
+            " - Fixed some custom crosshair crashes.",
+            " - Disabled custom crosshair by default.",
+            " - Fixed memory issues.",
+            " - Fixed world loading time.",
+			" - Fixed skins unloading and not loading back",
+            " - Fixed CPU leak in font fix.",
+            " - Fixed nick hider crash.",
             "",
             "New features",
-            "+  Ported Custom RP Addon",
-            "+  Added /resize to change the size the window",
-            "+  Made GUI labels look better",
+            " +  Added fast world loading toggle (may increase memory usage).",
+			   " +  Added keybinds GUI to fix keybind issues. Available in Hyperium settings.",
             ""
          ]
       }
