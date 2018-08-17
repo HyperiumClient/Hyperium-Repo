@@ -1,23 +1,23 @@
 {  
    "changelogs":[  
       {  
-         "title":"B22 Changelog",
+         "title":"B23 Changelog",
          "description":[  
             "Bug fixes:",
-            " - Fixed limbo command.",
-            " - Fixed chromahud armour turning black.",
-            " - Fixed cape positioning being skewed by Optifine.",
-            " - Fixed some custom crosshair crashes.",
-            " - Disabled custom crosshair by default.",
-            " - Fixed memory issues.",
-            " - Fixed world loading time.",
-			" - Fixed skins unloading and not loading back",
-            " - Fixed CPU leak in font fix.",
-            " - Fixed nick hider crash.",
+            " - Fixed keybind scrolling issue.",
+            " - Fixed keybinds GUI scaling.",
+            " - Fixed AutoFriend command.",
+            " - Fixed particle aura GUI (carousel).",
             "",
             "New features",
-            " +  Added fast world loading toggle (may increase memory usage).",
+            " +  Added memory usage to chromahud.",
 			   " +  Added keybinds GUI to fix keybind issues. Available in Hyperium settings.",
+			   " + Added ability to set keybind to be NONE to disable.",
+			   " + Added Achievement and Levelups broadcast to guild chat.",
+			   " + Added Fortnite Default Dance.",
+			   " + Added Twerk Dance.",
+			   " + Addded ability to change screenshot upload hotkey.",
+			   " + Added Butt as cosmetic (2K credits).",
             ""
          ]
       }
