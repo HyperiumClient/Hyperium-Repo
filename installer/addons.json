@@ -1,1 +1,43 @@
-[]
+[
+    {
+      "name": "Quickplay",
+      "description": "Quickly join games on the network.",
+      "version": "2.0.3",
+      "author": "bugfroggy",
+      "verified": true,
+      "sha256": "eb3e66b3e745b28d3078f8f175be76dcf59cf4a80f6aa50bb43e7dc926f978cb",
+      "url": "https://github.com/bugfroggy/Quickplay2.0/releases/download/2.0.3/Quickplay-Hyperium-2.0.3.jar",
+      "depends":[]
+    },
+    {
+      "name": "Quickplay Premium",
+      "description": "Paid addition to Quickplay. More info at https://bugg.co/quickplay/premium/",
+      "version": "1.0.2",
+      "author": "bugfroggy",
+      "verified": true,
+      "sha256": "d259d42e3fa91805c6ea7049cbce626c11bc0f3b965394ef1f31cb9defe1b412",
+      "url": "https://bugg.co/quickplay/jars/Quickplay%20Premium%20Hyperium-1.0.2.jar",
+      "depends":["Quickplay"]
+    },
+    {
+      "name": "oof",
+      "description": "Plays OOF sound when you kill someone or you die",
+      "version": "1.0.3",
+      "author": "Amplifiable",
+      "verified": true,
+      "sha256": "89b0af3d56e975aae31f80c60e52cd63ce755f2b2ada7429fbc68aadfb41b76f",
+      "url": "https://github.com/Amplifiable2/HyperiumOof/releases/download/v1.0.3/oof-1.0.3.jar",
+      "depends":[]
+    },
+  
+    {
+      "name": "Auto Dab",
+      "description": "A port of the Forge mod by Sk1er, letting you automatically dab",
+      "version": "1.9.0",
+      "author": "KodingKing",
+      "verified": true,
+      "sha256": "0A8A626A645BFC4D83E27BB3749692CF9DC14406535C50D7DD73135A2EE86564",
+      "url": "https://github.com/KodingKing1/AutoDab-Addon/releases/download/v1.9-SNAPSHOT/AutoDab-Addon-1.0-SNAPSHOT.jar",
+      "depends": []
+    }
+]
