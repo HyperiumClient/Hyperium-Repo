@@ -1,4 +1,4 @@
-[
+{"addons":[
     {
       "name": "Quickplay",
       "description": "Quickly join games on the network.",
@@ -41,3 +41,4 @@
       "depends": []
     }
 ]
+}
