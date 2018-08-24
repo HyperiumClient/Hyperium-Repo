@@ -89,7 +89,13 @@
   {
     "uuid": "b1e7da69-a704-4020-8982-04c972d74cc9",
     "ign": "asbyth",
-    "color": "AQUA",
+    "color": "CHROMA",
+    "entityPath": "none"
+  },
+  {
+    "uuid": "fe8914a1-8153-44c4-bc81-323dc43da5e5",
+    "ign": "HelpBatterLow",
+    "color": "CHROMA",
     "entityPath": "none"
   }
 ]
