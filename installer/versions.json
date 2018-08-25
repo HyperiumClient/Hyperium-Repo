@@ -124,6 +124,16 @@
       "sha256": "0A8A626A645BFC4D83E27BB3749692CF9DC14406535C50D7DD73135A2EE86564",
       "url": "https://github.com/KodingKing1/AutoDab-Addon/releases/download/v1.9-SNAPSHOT/AutoDab-Addon-1.0-SNAPSHOT.jar",
       "depends": []
+    },
+    {
+      "name": "Chunk borders addon",
+      "description": "A port of a forge mod which shows you where the chunk borders are",
+      "version": "1.0.0",
+      "author": "SHARDcoder",
+      "verified": true,
+      "sha256": "06b02f68dd07012965bbd38fa9802f1c8908b23afd10f2ee17bc25c8708d14aa",
+      "url": "https://github.com/SHARDcoder/ChunkBordersAddon/releases/download/v1.0.0/Addon.ChunkBordersAddon.v1.0.0.jar",
+      "depends": []
     }
   ]
 }
