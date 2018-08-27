@@ -4,7 +4,7 @@
   "latest-dev": "1.0 B24",
   "versions": [  {
       "name": "1.0 B24",
-      "release-id":36
+      "release-id":36,
       "artifact-name": "cc.hyperium:Hyperium:0.24.1",
       "url": "https://static.sk1er.club/hyperium_files/Hyperium-0.24.1.jar",
       "sha256": "d5b92266bc37372d481d0deedb2b1e7b66e590dab907b61ba71c031b1a750672",
