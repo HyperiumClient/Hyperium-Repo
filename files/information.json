@@ -1,24 +1,14 @@
 {  
    "changelogs":[  
       {  
-         "title":"B23 Changelog",
+         "title":"B24 Changelog",
          "description":[  
             "Bug fixes:",
-            " - Fixed keybind scrolling issue.",
-            " - Fixed keybinds GUI scaling.",
-            " - Fixed AutoFriend command.",
-            " - Fixed particle aura GUI (carousel).",
-            "",
-            "New features",
-            " + Added memory usage to chromahud.",
-			   " + Added keybinds GUI to fix keybind issues. Available in Hyperium settings.",
-			   " + Added ability to set keybind to be NONE to disable.",
-			   " + Added Achievement and Levelups broadcast to guild chat.",
-			   " + Added Fortnite Default Dance.",
-			   " + Added Twerk Dance.",
-			   " + Addded ability to change screenshot upload hotkey.",
-			   " + Added Butt as cosmetic (2K credits).",
-            ""
+            " - Fixed Keystrokes crashing when you use mouse buttons",
+            " - Fixed some cosmetic visibility problems",
+            " - Fixed Level not showing in Custom Levelhead configurer",
+            " - Fixed Keybinding conflict",
+            " - Fixed tab toggle causing issues"
          ]
       }
    ],
