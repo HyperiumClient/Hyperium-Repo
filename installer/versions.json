@@ -1,8 +1,19 @@
 {
   "latest-supported": 35,
-  "latest-stable": "1.0 B23",
-  "latest-dev": "1.0 B23",
-  "versions": [  
+  "latest-stable": "1.0 B24",
+  "latest-dev": "1.0 B24",
+  "versions": [  {
+      "name": "1.0 B24",
+      "release-id":35,
+      "artifact-name": "cc.hyperium:Hyperium:0.24",
+      "url": "https://static.sk1er.club/hyperium_files/Hyperium-0.24.jar",
+      "sha256": "56118f52ef7298068174099da1907194f8a8f1ecb87f64aa0167406f299cb8d8",
+      "sha1": "f6631a892e7337a78f10e2c642dea38a1dc106f3",
+      "size": 36561201,
+      "path": "cc/hyperium/Hyperium/0.24/Hyperium-0.24.jar",
+      "tweak-class": "cc.hyperium.launch.HyperiumTweaker",
+      "install-min": 1
+    },
     {
       "name": "1.0 B23",
       "release-id":35,
