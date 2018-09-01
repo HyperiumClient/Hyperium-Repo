@@ -103,5 +103,17 @@
     "ign": "U_9",
     "color": "CHROMA",
     "entityPath": "none"
+  },
+  {
+    "uuid": "25a8434d-11c1-431d-88c5-5f1d1f70770b",
+    "ign": "SiroQ",
+    "color": "CHROMA",
+    "entityPath": "none"
+  },
+  {
+    "uuid": "7cbafc51-caf0-49f6-8508-e1aafe7bb8e6",
+    "ign": "iMysty",
+    "color": "AQUA",
+    "entityPath": "none"
   }
 ]
