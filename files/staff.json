@@ -103,5 +103,11 @@
     "ign": "HelpBatterLow",
     "color": "CHROMA",
     "entityPath": "none"
+  },
+  {
+    "uuid": "7cbafc51-caf0-49f6-8508-e1aafe7bb8e6",
+    "ign": "iMysty",
+    "color": "CHROMA",
+    "entityPath": "none"
   }
 ]
