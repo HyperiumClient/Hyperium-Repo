@@ -39,12 +39,6 @@
     "entityPath": "net.minecraft.entity.monster.EntityEnderman"
   },
   {
-    "uuid": "7c84bd05-f9c5-4bf8-b03c-0963be88ef81",
-    "ign": "Zezzo",
-    "color": "AQUA",
-    "entityPath": "net.minecraft.entity.monster.EntityIronGolem"
-  },
-  {
     "uuid": "d7e06198-b78a-435e-8e35-5f2706e254f9",
     "ign": "MelonChach",
     "color": "CHROMA",
@@ -59,7 +53,7 @@
   {
     "uuid": "b191dbfd-b6fe-4669-a948-c0398ef08a7d",
     "ign": "M0F",
-    "color": "AQUA",
+    "color": "CHROMA",
     "entityPath": "net.minecraft.entity.monster.EntityGiantZombie"
   },
   {
@@ -101,6 +95,12 @@
   {
     "uuid": "fe8914a1-8153-44c4-bc81-323dc43da5e5",
     "ign": "HelpBatterLow",
+    "color": "CHROMA",
+    "entityPath": "none"
+  },
+  {
+    "uuid": "25a8434d-11c1-431d-88c5-5f1d1f70770b",
+    "ign": "SiroQ",
     "color": "CHROMA",
     "entityPath": "none"
   },
