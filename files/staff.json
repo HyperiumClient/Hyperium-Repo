@@ -103,5 +103,11 @@
     "ign": "HelpBatterLow",
     "color": "CHROMA",
     "entityPath": "none"
+  },
+  {
+    "uuid": "25a8434d-11c1-431d-88c5-5f1d1f70770b",
+    "ign": "SiroQ",
+    "color": "CHROMA",
+    "entityPath": "none"
   }
 ]
