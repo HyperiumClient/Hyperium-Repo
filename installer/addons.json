@@ -28,17 +28,6 @@
       "sha256": "89b0af3d56e975aae31f80c60e52cd63ce755f2b2ada7429fbc68aadfb41b76f",
       "url": "https://github.com/Amplifiable2/HyperiumOof/releases/download/v1.0.3/oof-1.0.3.jar",
       "depends":[]
-    },
-  
-    {
-      "name": "Auto Dab",
-      "description": "A port of the Forge mod by Sk1er, letting you automatically dab",
-      "version": "1.9.0",
-      "author": "KodingKing",
-      "verified": true,
-      "sha256": "0A8A626A645BFC4D83E27BB3749692CF9DC14406535C50D7DD73135A2EE86564",
-      "url": "https://github.com/KodingKing1/AutoDab-Addon/releases/download/v1.9-SNAPSHOT/AutoDab-Addon-1.0-SNAPSHOT.jar",
-      "depends": []
     }
 ]
 }
