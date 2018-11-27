@@ -1,5 +1,3 @@
-# From Better Antiswear / BSwear ( http://dev.bukkit.org/projects/bswear )
-
 abruti
 address
 anus
