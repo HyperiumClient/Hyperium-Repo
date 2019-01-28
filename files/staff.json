@@ -3,13 +3,11 @@
     "uuid": "eac14100-2676-4a6d-9dea-85437b2c133d",
     "ign": "Cubxity",
     "color": "CHROMA",
-    "entityPath": "net.minecraft.entity.passive.EntityPig"
   },
   {
     "uuid": "1e7ccd18-4cea-4fbf-a52e-b5e2e3092832",
     "ign": "CoalOres",
-    "color": "DARK_PURPLE",
-    "entityPath": "net.minecraft.entity.monster.EntityGiantZombie"
+    "color": "DARK_PURPLE"
   },
   {
     "uuid": "1a5c41c8-a952-4ddf-a19c-66f6bb3707a1",
@@ -24,8 +22,7 @@
   {
     "uuid": "8233b1e5-bd74-441b-aa34-ee812263cca9",
     "ign": "TheDestinyPig",
-    "color": "AQUA",
-    "entityPath": "net.minecraft.entity.passive.EntityPig"
+    "color": "AQUA"
   },
   {
     "uuid": "e72660b1-8b88-424e-a23f-2cdd3597c581",
@@ -35,79 +32,61 @@
   {
     "uuid": "e3ccb241-00fd-48e0-b1a3-9066430e7a77",
     "ign": "KenWayTheGod",
-    "color": "AQUA",
-    "entityPath": "net.minecraft.entity.monster.EntityEnderman"
+    "color": "AQUA"
   },
   {
     "uuid": "d7e06198-b78a-435e-8e35-5f2706e254f9",
-    "ign": "MelonChach",
-    "color": "CHROMA",
-    "entityPath": "net.minecraft.entity.monster.EntitySlime"
+    "ign": "MerryChachy",
+    "color": "CHROMA"
   },
   {
     "uuid": "75cff0a1-c5f5-4528-9c9f-48f87570065a",
     "ign": "KodingKing",
-    "color": "CHROMA",
-    "entityPath": "net.minecraft.entity.passive.EntitySquid"
+    "color": "CHROMA"
   },
   {
     "uuid": "b191dbfd-b6fe-4669-a948-c0398ef08a7d",
     "ign": "M0F",
-    "color": "CHROMA",
-    "entityPath": "net.minecraft.entity.monster.EntityGiantZombie"
+    "color": "CHROMA"
   },
   {
     "uuid": "02f62a6b-e748-4546-b9ff-26e3ab4b1076",
     "ign": "FalseHonesty",
-    "color": "GREEN",
-    "entityPath": "net.minecraft.entity.passive.EntityPig"
+    "color": "GREEN"
   },
   {
     "uuid": "49238332-d820-4975-b9d3-5b33049fdf7c",
     "ign": "Toriable",
-    "color": "CHROMA",
-    "entityPath": "none"
+    "color": "CHROMA"
   },
   {
     "uuid": "3a3c9d90-ab98-47b4-bc5d-73196a65e1d9",
     "ign": "PrincessJo",
-    "color": "CHROMA",
-    "entityPath": "net.minecraft.entity.passive.EntityHorse"
+    "color": "CHROMA"
   },
   {
     "uuid": "15f154be-c576-4244-9ab2-86a4e92fa2d6",
     "ign": "Quig",
-    "color": "DARK_PURPLE",
-    "entityPath": "none"
-  },
-  {
-    "uuid": "4ad76e80-d3dc-4039-8acf-6464bb7c4a76",
-    "ign": "U_9",
-    "color": "CHROMA",
-    "entityPath": "none"
+    "color": "DARK_PURPLE"
   },
   {
     "uuid": "b1e7da69-a704-4020-8982-04c972d74cc9",
-    "ign": "asbyth",
-    "color": "CHROMA",
-    "entityPath": "none"
+    "ign": "reminiscer",
+    "color": "CHROMA"
   },
   {
     "uuid": "fe8914a1-8153-44c4-bc81-323dc43da5e5",
     "ign": "HelpBatterLow",
-    "color": "CHROMA",
-    "entityPath": "none"
+    "color": "CHROMA"
   },
   {
     "uuid": "25a8434d-11c1-431d-88c5-5f1d1f70770b",
     "ign": "SiroQ",
-    "color": "CHROMA",
-    "entityPath": "none"
+    "color": "CHROMA"
   },
   {
     "uuid": "7cbafc51-caf0-49f6-8508-e1aafe7bb8e6",
     "ign": "iMysty",
-    "color": "CHROMA",
-    "entityPath": "none"
+    "color": "CHROMA"
   }
 ]
