@@ -30,11 +30,6 @@
     "color": "AQUA"
   },
   {
-    "uuid": "e3ccb241-00fd-48e0-b1a3-9066430e7a77",
-    "ign": "KenWayTheGod",
-    "color": "AQUA"
-  },
-  {
     "uuid": "d7e06198-b78a-435e-8e35-5f2706e254f9",
     "ign": "MerryChachy",
     "color": "CHROMA"
@@ -71,12 +66,7 @@
   },
   {
     "uuid": "b1e7da69-a704-4020-8982-04c972d74cc9",
-    "ign": "reminiscer",
-    "color": "CHROMA"
-  },
-  {
-    "uuid": "fe8914a1-8153-44c4-bc81-323dc43da5e5",
-    "ign": "HelpBatterLow",
+    "ign": "asbyth",
     "color": "CHROMA"
   },
   {
@@ -87,6 +77,21 @@
   {
     "uuid": "7cbafc51-caf0-49f6-8508-e1aafe7bb8e6",
     "ign": "iMysty",
+    "color": "CHROMA"
+  },
+  {
+    "uuid": "f4d1c8a6-754c-43b3-8835-01e59e30d972",
+    "ign": "minerinnorway",
+    "color": "DARK_PURPLE"
+  },
+  {
+    "uuid": "4686e7b5-8815-485d-8bc4-a45445abb984",
+    "ign": "notifyme",
+    "color": "WHITE"
+  },
+  {
+    "uuid": "497d2743-5ef2-45e1-853a-e845e1bcd333",
+    "ign": "SokuPlays",
     "color": "CHROMA"
   }
 ]
