@@ -12,11 +12,11 @@
     {
       "name": "Quickplay Premium",
       "description": "Paid addition to Quickplay. More info at https://bugg.co/quickplay/premium/",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": "bugfroggy",
       "verified": true,
-      "sha256": "d259d42e3fa91805c6ea7049cbce626c11bc0f3b965394ef1f31cb9defe1b412",
-      "url": "https://bugg.co/quickplay/jars/Quickplay%20Premium%20Hyperium-1.0.2.jar",
+      "sha256": "0c7f3cb8c3fa227ef9422a5bd99beded08582284e9ea3d5c8ee9986b71e0e504",
+      "url": "https://bugg.co/quickplay/jars/Quickplay%20Premium%20Hyperium-1.0.3.jar",
       "depends":["Quickplay"]
     },
     {
