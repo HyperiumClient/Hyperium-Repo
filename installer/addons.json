@@ -18,16 +18,6 @@
       "sha256": "0c7f3cb8c3fa227ef9422a5bd99beded08582284e9ea3d5c8ee9986b71e0e504",
       "url": "https://bugg.co/quickplay/jars/Quickplay%20Premium%20Hyperium-1.0.3.jar",
       "depends":["Quickplay"]
-    },
-    {
-      "name": "oof",
-      "description": "Plays OOF sound when you kill someone or you die",
-      "version": "1.0.3",
-      "author": "Amplifiable",
-      "verified": true,
-      "sha256": "89b0af3d56e975aae31f80c60e52cd63ce755f2b2ada7429fbc68aadfb41b76f",
-      "url": "https://github.com/Amplifiable2/HyperiumOof/releases/download/v1.0.3/oof-1.0.3.jar",
-      "depends":[]
     }
 ]
 }
