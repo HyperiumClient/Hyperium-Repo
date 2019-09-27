@@ -1,7 +1,7 @@
 {"addons":[
     {
       "name": "Quickplay",
-      "description": "Quickly join games on the network.",
+      "description": "Provides an interface to quickly join Hypixel minigames.",
       "version": "2.0.3",
       "author": "bugfroggy",
       "verified": true,
@@ -18,6 +18,16 @@
       "sha256": "0c7f3cb8c3fa227ef9422a5bd99beded08582284e9ea3d5c8ee9986b71e0e504",
       "url": "https://bugg.co/quickplay/jars/Quickplay%20Premium%20Hyperium-1.0.3.jar",
       "depends":["Quickplay"]
+    },
+    {
+      "name": "ParticleMod",
+      "description": "A port of Dewgs' ParticleMod",
+      "version": "1.0",
+      "author": "Chachy",
+      "verified": true,
+      "sha256": "ae0abadf11238c896323d255b853ecf339051f382e7ccf997b52b9046476e850",
+      "url": "https://github.com/chachyyyy/ParticleMod/releases/download/1.0/ParticleAddon-1.0.jar",
+      "depends":[]
     }
 ]
 }
