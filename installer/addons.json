@@ -20,16 +20,6 @@
       "depends":["Quickplay"]
     },
     {
-      "name": "ParticleMod",
-      "description": "A port of Dewgs' ParticleMod",
-      "version": "1.0",
-      "author": "Chachy",
-      "verified": true,
-      "sha256": "ae0abadf11238c896323d255b853ecf339051f382e7ccf997b52b9046476e850",
-      "url": "https://github.com/chachyyyy/ParticleMod/releases/download/1.0/ParticleAddon-1.0.jar",
-      "depends":[]
-    },
-    {
       "name": "MediaMod",
       "description": "View your current song in Minecraft with support for services like Spotify, YouTube, SoundCloud & more!",
       "version": "1.1.0",
