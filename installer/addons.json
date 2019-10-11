@@ -1,9 +1,9 @@
 {"addons":[
     {
       "name": "Quickplay",
-      "description": "Quickly join games on the network.",
+      "description": "Provides an interface to quickly join Hypixel minigames.",
       "version": "2.0.3",
-      "author": "bugfroggy",
+      "author": "Bugfroggy",
       "verified": true,
       "sha256": "eb3e66b3e745b28d3078f8f175be76dcf59cf4a80f6aa50bb43e7dc926f978cb",
       "url": "https://github.com/bugfroggy/Quickplay2.0/releases/download/2.0.3/Quickplay-Hyperium-2.0.3.jar",
@@ -13,11 +13,31 @@
       "name": "Quickplay Premium",
       "description": "Paid addition to Quickplay. More info at https://bugg.co/quickplay/premium/",
       "version": "1.0.3",
-      "author": "bugfroggy",
+      "author": "Bugfroggy",
       "verified": true,
       "sha256": "0c7f3cb8c3fa227ef9422a5bd99beded08582284e9ea3d5c8ee9986b71e0e504",
       "url": "https://bugg.co/quickplay/jars/Quickplay%20Premium%20Hyperium-1.0.3.jar",
       "depends":["Quickplay"]
+    },
+    {
+      "name": "ParticleMod",
+      "description": "A port of Dewgs' ParticleMod",
+      "version": "1.0",
+      "author": "Chachy",
+      "verified": true,
+      "sha256": "ae0abadf11238c896323d255b853ecf339051f382e7ccf997b52b9046476e850",
+      "url": "https://github.com/chachyyyy/ParticleMod/releases/download/1.0/ParticleAddon-1.0.jar",
+      "depends":[]
+    },
+    {
+      "name": "MediaMod",
+      "description": "View your current song in Minecraft with support for services like Spotify, YouTube, SoundCloud & more!",
+      "version": "1.1.0",
+      "author": "ConorTheDev and AmpTheDev",
+      "verified": true,
+      "sha256": "a7d0d368eddff32bde965dad5fb2890da20076b671b6e2e250d6a0b45010a913",
+      "url": "https://github.com/MediaModMC/MediaMod/releases/download/v1.1.0/MediaMod-Hyperium-Addon-1.1.0.jar",
+      "depends":[]
     }
 ]
 }
