@@ -1,4 +1,5 @@
-{"addons":[
+{
+"addons":[
     {
       "name": "Quickplay",
       "description": "Provides an interface to quickly join Hypixel minigames.",
@@ -28,6 +29,16 @@
       "sha256": "584ce97a39313068fce785a6e7a7f5aacd0ad2f8c1efad0fc6f5c0ba90838588",
       "url": "https://github.com/MediaModMC/MediaMod/releases/download/v1.1.0/MediaMod.Addon-1.1.0.jar",
       "depends":[]
+    },
+    {	
+      "name": "ParticleMod",	
+      "description": "A port of Dewgs' ParticleMod",	
+      "version": "1.0",	
+      "author": "Chachy",	
+      "verified": true,	
+      "sha256": "079cd2e4f3a97d73162811d9214cd69beac2645a4f8913e65d705b671b57ec8c",	
+      "url": "https://github.com/chachyyyy/ParticleMod/releases/download/1.0/ParticleAddon-1.0.jar",	
+      "depends":[]	
     }
 ]
 }
