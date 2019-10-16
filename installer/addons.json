@@ -1,5 +1,5 @@
 {
-"addons":[
+  "addons": [
     {
       "name": "Quickplay",
       "description": "Provides an interface to quickly join Hypixel minigames.",
@@ -8,7 +8,7 @@
       "verified": true,
       "sha256": "eb3e66b3e745b28d3078f8f175be76dcf59cf4a80f6aa50bb43e7dc926f978cb",
       "url": "https://github.com/bugfroggy/Quickplay2.0/releases/download/2.0.3/Quickplay-Hyperium-2.0.3.jar",
-      "depends":[]
+      "depends": []
     },
     {
       "name": "Quickplay Premium",
@@ -18,7 +18,9 @@
       "verified": true,
       "sha256": "0c7f3cb8c3fa227ef9422a5bd99beded08582284e9ea3d5c8ee9986b71e0e504",
       "url": "https://bugg.co/quickplay/jars/Quickplay%20Premium%20Hyperium-1.0.3.jar",
-      "depends":["Quickplay"]
+      "depends": [
+        "Quickplay"
+      ]
     },
     {
       "name": "MediaMod",
@@ -28,17 +30,27 @@
       "verified": true,
       "sha256": "af71a2bf0abbbb5e8bb99f90794bc772548bcfec41b5414e9466c568039f287d",
       "url": "https://github.com/MediaModMC/MediaMod/releases/download/v1.1.0/MediaMod.Addon-1.1.0.jar",
-      "depends":[]
+      "depends": []
     },
-    {	
-      "name": "ParticleMod",	
-      "description": "A port of Dewgs' ParticleMod",	
-      "version": "1.0",	
-      "author": "Chachy",	
-      "verified": true,	
-      "sha256": "d9961a83358f4eaad7b9fe1b3f9b9a1217f388f08a1322dccbff6d226b251600",	
-      "url": "https://github.com/chachyyyy/ParticleMod/releases/download/1.0/ParticleMod-1.0.jar",	
-      "depends":[]	
+    {
+      "name": "ParticleMod",
+      "description": "A port of Dewgs' ParticleMod",
+      "version": "1.0",
+      "author": "Chachy",
+      "verified": true,
+      "sha256": "d9961a83358f4eaad7b9fe1b3f9b9a1217f388f08a1322dccbff6d226b251600",
+      "url": "https://github.com/chachyyyy/ParticleMod/releases/download/1.0/ParticleMod-1.0.jar",
+      "depends": []
+    },
+    {
+      "name": "Arrow Trails",
+      "description": "Visualize where your arrows are headed once shot.",
+      "version": "1.0",
+      "author": "asbyth, aycy",
+      "verified": true,
+      "sha256": "1ea274b518bafe52d4d1a1c5f5204ee5452e239646d8321fc223f86774cc0408",
+      "url": "https://github.com/asbyth/ArrowTrail/releases/download/1.0/ArrowTrail-1.0.jar",
+      "depends": []
     }
-]
+  ]
 }
