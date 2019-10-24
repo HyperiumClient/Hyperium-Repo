@@ -1,2 +1,2 @@
 # Hyperium-Repo
-Repository for resources
+Resource File Repository 
