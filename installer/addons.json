@@ -35,11 +35,11 @@
     {
       "name": "ParticleMod",
       "description": "A port of Dewgs' ParticleMod",
-      "version": "1.0",
+      "version": "1.1",
       "author": "Chachy",
       "verified": true,
-      "sha256": "7923c5ca0374d573c389f476e257e176f9f12750582857181fe50b0e800cbb7b",
-      "url": "https://github.com/chachyyyy/ParticleMod/releases/download/1.0/ParticleMod-1.0.jar",
+      "sha256": "d1a4945aeb089252a0dfa80f9db578f5a9a9443ce683402d64e7bd56d5eb9a7a",
+      "url": "https://github.com/chachyyyy/ParticleMod/releases/download/1.1/ParticleMod-1.1.jar",
       "depends": []
     },
     {
