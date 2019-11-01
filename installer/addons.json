@@ -1,45 +1,23 @@
 {
   "addons": [
     {
-      "name": "Quickplay",
-      "description": "Provides an interface to quickly join Hypixel minigames.",
-      "version": "2.0.3",
-      "author": "Bugfroggy",
-      "verified": true,
-      "sha256": "eb3e66b3e745b28d3078f8f175be76dcf59cf4a80f6aa50bb43e7dc926f978cb",
-      "url": "https://github.com/bugfroggy/Quickplay2.0/releases/download/2.0.3/Quickplay-Hyperium-2.0.3.jar",
-      "depends": []
-    },
-    {
-      "name": "Quickplay Premium",
-      "description": "Paid addition to Quickplay. More info at https://bugg.co/quickplay/premium/",
-      "version": "1.0.3",
-      "author": "Bugfroggy",
-      "verified": true,
-      "sha256": "0c7f3cb8c3fa227ef9422a5bd99beded08582284e9ea3d5c8ee9986b71e0e504",
-      "url": "https://bugg.co/quickplay/jars/Quickplay%20Premium%20Hyperium-1.0.3.jar",
-      "depends": [
-        "Quickplay"
-      ]
-    },
-    {
       "name": "MediaMod",
       "description": "View your current song in Minecraft with support for services like Spotify, YouTube, SoundCloud & more!",
       "version": "1.1.0",
       "author": "ConorTheDev and AmpTheDev",
       "verified": true,
-      "sha256": "de666d1d75ae52a11eba6f0594d1611cfb23bee184342bdeb3c18cbe549b558f",
+      "sha256": "10073355fee26fb5833a0241c94ec2a3dc98a21469275f67a4bcbfbce75c1338",
       "url": "https://github.com/MediaModMC/MediaMod/releases/download/v1.1.0/MediaMod.Addon-1.1.0.jar",
       "depends": []
     },
     {
       "name": "ParticleMod",
       "description": "A port of Dewgs' ParticleMod",
-      "version": "1.1",
+      "version": "1.2",
       "author": "Chachy",
       "verified": true,
-      "sha256": "53b8c3d6b59d87004f950f8ad437998f84cb12e3eda6d0889bfdb9a54986aa9b",
-      "url": "https://chachy.co.uk/download/ParticleMod-1.1.jar",
+      "sha256": "20337693764660eca1cc05c90c3cd266455b7e9b171c13421cfee55b2fb9ed0f",
+      "url": "https://github.com/chachyyyy/ParticleMod/releases/download/1.2/ParticleMod-1.2.jar",
       "depends": []
     },
     {
@@ -48,7 +26,7 @@
       "version": "1.0",
       "author": "asbyth, aycy",
       "verified": true,
-      "sha256": "f5595568261d1baf088195fa7ce846eb92fea11b7a1152c09653270818cbf315",
+      "sha256": "6492e81ca3cf604eb621df4a07231aae205fe14afcf0c4daaaa2e5a54ce9658b",
       "url": "https://github.com/asbyth/ArrowTrail/releases/download/1.0/ArrowTrail-1.0.jar",
       "depends": []
     }
