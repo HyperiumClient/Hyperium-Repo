@@ -1,10 +1,10 @@
 {
-  "SpongePowered Mixin":"https://raw.githubusercontent.com/SpongePowered/Mixin/master/LICENSE.txt",
-  "Jagrosh DiscordIPC":"https://raw.githubusercontent.com/jagrosh/DiscordIPC/master/LICENSE",
-  "Google Guava":"https://raw.githubusercontent.com/google/guava/master/COPYING",
-  "Google Gson":"https://raw.githubusercontent.com/google/gson/master/LICENSE",
-  "OkHttp 3":"https://raw.githubusercontent.com/square/okhttp/master/LICENSE.txt",
-  "Slick2D":"http://slick.ninjacave.com/license/",
-  "NativeLibs4J":"https://raw.githubusercontent.com/KevinPriv/HypixelApi4J/master/LICENSE",
-  "Netty":"https://raw.githubusercontent.com/netty/netty/4.1/LICENSE.txt"
+  "SpongePowered Mixin": "https://raw.githubusercontent.com/SpongePowered/Mixin/master/LICENSE.txt",
+  "Jagrosh DiscordIPC": "https://raw.githubusercontent.com/jagrosh/DiscordIPC/master/LICENSE",
+  "Google Guava": "https://raw.githubusercontent.com/google/guava/master/COPYING",
+  "Google Gson": "https://raw.githubusercontent.com/google/gson/master/LICENSE",
+  "OkHttp 3": "https://raw.githubusercontent.com/square/okhttp/master/LICENSE.txt",
+  "Slick2D": "http://slick.ninjacave.com/license/",
+  "NativeLibs4J": "https://raw.githubusercontent.com/KevinPriv/HypixelApi4J/master/LICENSE",
+  "Netty": "https://raw.githubusercontent.com/netty/netty/4.1/LICENSE.txt"
 }
