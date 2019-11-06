@@ -29,6 +29,16 @@
       "sha256": "6492e81ca3cf604eb621df4a07231aae205fe14afcf0c4daaaa2e5a54ce9658b",
       "url": "https://github.com/asbyth/ArrowTrail/releases/download/1.0/ArrowTrail-1.0.jar",
       "depends": []
+    },
+    {
+      "name": "Victory Royale",
+      "description": "Display the Fortnite Victory Royale image & play the sound once winning a Hypixel game.",
+      "version": "1.0",
+      "author": "asbyth, Sk1er",
+      "verified": true,
+      "sha256": "18d080a6583b55b1bef0e13d4073c8cfcd7aba749330d9bfb338a726a17864b1",
+      "url": "https://github.com/asbyth/VictoryRoyaleAddon/releases/download/1.0/VictoryRoyaleAddon.jar",
+      "depends": []
     }
   ]
 }
