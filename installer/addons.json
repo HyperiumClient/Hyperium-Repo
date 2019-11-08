@@ -11,6 +11,16 @@
       "depends": []
     },
     {
+      "name": "ParticleMod",
+      "description": "A port of Dewgs' ParticleMod",
+      "version": "1.2",
+      "author": "Chachy",
+      "verified": true,
+      "sha256": "6b1c480b60cd8bb86da9dd7d8ce11f52ec048c3017918577aff937ef631f7c74",
+      "url": "https://github.com/chachyyyy/ParticleMod/releases/download/1.2/ParticleMod-1.2.jar",
+      "depends": []
+    },
+    {
       "name": "Arrow Trails",
       "description": "Visualize where your arrows are headed once shot.",
       "version": "1.0",
