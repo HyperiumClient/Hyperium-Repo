@@ -23,9 +23,9 @@ clear
 echo "Gamer moment"
 
 # Got those commands from https://www.java.com/en/download/help/mac_uninstall_java.xml
-    #sudo rm -rf /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin
-    #sudo rm -rf /Library/PreferencePanes/JavaControlPanel.prefPane
-    #sudo rm -rf ~/Library/Application\ Support/Oracle/Java
+    sudo rm -rf /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin
+    sudo rm -rf /Library/PreferencePanes/JavaControlPanel.prefPane
+    sudo rm -rf ~/Library/Application\ Support/Oracle/Java
     clear
 
 echo "Opening java\'s website..."
