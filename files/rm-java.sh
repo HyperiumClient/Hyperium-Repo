@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [[ "$OSTYPE" != "darwin" ]]; then
+if [[ "$OSTYPE" != "darwin"* ]]; then
     echo "You\'re not on MacOS go away >:("
     exit 0
 fi
