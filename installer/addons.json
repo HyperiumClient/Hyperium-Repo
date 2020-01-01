@@ -3,11 +3,11 @@
     {
       "name": "MediaMod",
       "description": "View your current song in Minecraft with support for services like Spotify, YouTube, SoundCloud & more!",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "author": "ConorTheDev, AmpTheDev, asbyth",
       "verified": true,
       "sha256": "a8d18f6a10740ef6a35fd5b5ee433f0191ccd741685da0a49f72514a95d6e001",
-      "url": "https://github.com/MediaModMC/MediaMod/releases/download/v1.2.0/MediaMod-Hyperium-1.2.0.jar",
+      "url": "https://github.com/asbyth/MediaMod/releases/download/1.2.0/MediaMod-Hyperium-1.2.0.jar",
       "depends": [],
       "enabled": true
     },
