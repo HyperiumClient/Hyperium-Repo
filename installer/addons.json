@@ -43,6 +43,17 @@
       "url": "https://github.com/asbyth/VictoryRoyaleAddon/releases/download/1.0/VictoryRoyaleAddon.jar",
       "depends": [],
       "enabled": true
+    },
+    {
+      "name": "Timers",
+      "description": "Adds timers sent from the server onto the screen.",
+      "version": "1.0",
+      "author": "LlamaLad7",
+      "verified": true,
+      "sha256": "64db0f81c59d63d848684de3e7749333614453e458d9ecc15d6c846ec5dd7ab9",
+      "url": "https://github.com/lego3708/blctimers/releases/download/hyperium-v1.0/BLCTimers.Hyperium-1.0.jar",
+      "depends": [],
+      "enabled": true
     }
   ]
 }
