@@ -47,11 +47,11 @@
     {
       "name": "Timers",
       "description": "Adds timers sent from the server onto the screen.",
-      "version": "1.0",
+      "version": "1.1",
       "author": "LlamaLad7",
       "verified": true,
-      "sha256": "64db0f81c59d63d848684de3e7749333614453e458d9ecc15d6c846ec5dd7ab9",
-      "url": "https://github.com/lego3708/blctimers/releases/download/hyperium-v1.0/BLCTimers.Hyperium-1.0.jar",
+      "sha256": "ce7bbe0eaf7218ca62365d2edc34ccb0975cf4351299e8d3fa0b5fb093203d4d",
+      "url": "https://github.com/lego3708/blctimers/releases/download/hyperium-v1.1/BLCTimers.Hyperium-1.1.jar",
       "depends": [],
       "enabled": true
     }
