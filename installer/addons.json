@@ -47,7 +47,7 @@
     {
       "name": "Timers",
       "description": "Adds timers sent from the server onto the screen.",
-      "version": "1.1",
+      "version": "1.2",
       "author": "LlamaLad7",
       "verified": true,
       "sha256": "3d0419b3e1e537efb37767c587d55de5b53b8e4841224f75b76bb6122fb8f8bd",
