@@ -35,11 +35,11 @@
     },
     {
       "name": "Auto MyPosition",
-      "description": "A mod to awutomatically show your position in ranked skywars",
+      "description": "A mod to automatically show your position in Ranked Skywars",
       "version": "1.0",
       "author": "chachy",
       "verified": true,
-      "sha256": "f0894e6c87eec0f3aa747364e5b5b92fd622cb72fdd05bd1480ba04dc1c1cb02",
+      "sha256": "2b1cde20dd572b5a92a76aa61f8e5453a599b34afba87a416601d66c85d394d7",
       "url": "https://github.com/chachyyyy/Auto-MyPos/releases/download/1.0/Auto-MyPos-1.0.jar",
       "depends": [],
       "enabled": true
