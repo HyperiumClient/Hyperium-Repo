@@ -34,6 +34,17 @@
       "enabled": true
     },
     {
+      "name": "Auto MyPosition",
+      "description": "A mod to awutomatically show your position in ranked skywars",
+      "version": "1.0",
+      "author": "chachy",
+      "verified": true,
+      "sha256": "f0894e6c87eec0f3aa747364e5b5b92fd622cb72fdd05bd1480ba04dc1c1cb02",
+      "url": "https://github.com/chachyyyy/Auto-MyPos/releases/download/1.0/Auto-MyPos-1.0.jar",
+      "depends": [],
+      "enabled": true
+    },
+    {
       "name": "Victory Royale",
       "description": "Display the Fortnite Victory Royale image & play the sound once winning a Hypixel game.",
       "version": "1.0",
