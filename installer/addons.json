@@ -15,10 +15,21 @@
       "name": "ParticleMod",
       "description": "A port of Dewgs' ParticleMod",
       "version": "1.3",
-      "author": "Chachy",
+      "author": "chachy",
       "verified": true,
       "sha256": "21399c17e11c04c879a11335d20bd44814b263daead5215c48c4c279aac9feda",
       "url": "https://github.com/chachyyyy/ParticleMod/releases/download/1.3/ParticleMod-1.3.jar",
+      "depends": [],
+      "enabled": true
+    },
+    {
+      "name": "OofAddonV2",
+      "description": "A port of Refraction & powns Oof Mod V2",
+      "version": "2.2",
+      "author": "chachy",
+      "verified": true,
+      "sha256": "dd9475222764d6b2e38af14c8cf900b3cfc23000cd4579a993dde51823eb920d",
+      "url": "https://github.com/chachyyyy/OofAddonV2/releases/download/2.2/OofAddonV2-2.2.jar",
       "depends": [],
       "enabled": true
     },
