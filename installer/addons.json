@@ -56,6 +56,17 @@
       "enabled": true
     },
     {
+      "name": "Thank Watchdog",
+      "description": "Thanks watchdog for banning someone",
+      "version": "1.0",
+      "author": "HyperiumClient, chachy",
+      "verified": true,
+      "sha256": "53bafc411c4491b20f102c23c6aaf89f91b7072e1a97970fdf04465275f290e9",
+      "url": "https://github.com/chachyyyy/ThankWatchdog/releases/download/1.0/ThankWatchdog-1.0.jar",
+      "depends": [],
+      "enabled": true
+    },
+    {
       "name": "Timers",
       "description": "Adds timers sent from the server onto the screen.",
       "version": "1.3.1",
