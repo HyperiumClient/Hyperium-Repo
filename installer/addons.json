@@ -23,17 +23,6 @@
       "enabled": true
     },
     {
-      "name": "OofAddonV2",
-      "description": "A port of Refraction & powns Oof Mod V2",
-      "version": "2.2",
-      "author": "Refraction, powns, chachy",
-      "verified": true,
-      "sha256": "4f2d8099d60a62353a626cf07ea8530256b440bbd90c645c320236bba2d1e1a4",
-      "url": "https://github.com/chachyyyy/OofAddonV2/releases/download/2.2.1/OofAddonV2-2.2.1.jar",
-      "depends": [],
-      "enabled": true
-    },
-    {
       "name": "Arrow Trails",
       "description": "Visualize where your arrows are headed once shot.",
       "version": "1.0",
