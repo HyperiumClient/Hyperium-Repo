@@ -54,6 +54,17 @@
       "url": "https://github.com/asbyth/Quickplay2.0/releases/download/Hyperium-2.0.4/Quickplay-Hyperium-2.0.4-asbyth.jar",
       "depends": [],
       "enabled": true
+    },
+    {
+      "name": "Quickplay Premium",
+      "description": "Paid addition to Quickplay. More info at https://bugg.co/quickplay/premium/",
+      "version": "1.0.4",
+      "author": "bugfroggy",
+      "verified": true,
+      "sha256": "6749992804880db4139417b8b011435cec041b7afc076ebf5c86d1330acf103e",
+      "url": "https://bugg.co/quickplay/jars/Quickplay%20Premium%20Hyperium-1.0.4.jar",
+      "depends":["Quickplay"],
+      "enabled": true
     }
   ]
 }
